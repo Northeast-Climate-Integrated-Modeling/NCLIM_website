@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 06c931a4-ef94-4020-9663-17db69d2e249
+      url: 'https://jamie-behan.quarto.pub/nclim'

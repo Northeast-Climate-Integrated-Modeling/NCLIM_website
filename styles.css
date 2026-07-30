@@ -1,0 +1,206 @@
+/* Increase text size of navigation links */
+.navbar-nav .nav-link {
+  font-size: 1.35rem !important; /* Default is ~0.9rem to 1rem */
+  font-weight: 400 !important;   /* not bolded*/
+}
+/* Increase text size of the site title/brand text (if displayed next to logo) */
+.navbar-brand {
+  font-size: 1.35rem !important;
+  font-weight: 400 !important;
+}
+/* Add a white rounded background badge to the navbar logo */
+.navbar-brand img,
+.navbar-logo {
+  background-color: #ffffff !important;
+  max-height: none !important; /* Overrides Quarto's hidden height cap so the image can be resized to be larger */
+  padding: 0px;           /* Inner spacing around the logo */
+  border-radius: 100px;         /* Rounded corners */
+  width:60px !important;      /* Sets equal width and height */
+  height: 60px !important;
+  object-fit: contain;         /* Ensures the circular logo fits cleanly inside */
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Full Homepage Transparent Background */
+body {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), 
+                    url('Figures/OceanWaterBanner.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Keeps background stationary while scrolling */
+}
+/* Increase the size of the main page title */
+header.quarto-title-block .title,
+.quarto-title .title,
+h1.title {
+  font-size: 3rem !important;   /* Default is ~2.25rem to 2.5rem */
+  font-weight: 800 !important;  /* Keeps it bold and clear */
+}
+/* Custom Hero Section */
+.hero-banner {
+  background: linear-gradient(135deg, #0b2545 0%, #134074 100%);
+  color: #ffffff;
+  padding: 4rem 2rem;
+  border-radius: 0.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.hero-banner h1 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.hero-banner p {
+  font-size: 1.5rem;
+  max-width: 800px;
+  opacity: 0.9;
+}
+
+/* Category Grid & Cards Layout */
+.category-card {
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  height: 100%;
+  background-color: #ffffff;
+}
+
+.category-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.12);
+}
+
+.category-card .card-body {
+  padding: 1.5rem;
+}
+
+.category-card .card-title {
+  font-weight: 600;
+  color: #0b2545;
+  margin-bottom: 0.75rem;
+}
+
+.btn-nclim {
+  background-color: #134074;
+  color: white;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 1rem;
+}
+
+.btn-nclim:hover {
+  background-color: #8da9c4;
+  color: #0b2545;
+}
+
+/* Ensure category cards stand out cleanly over the image background */
+.category-card {
+  background-color: rgba(255, 255, 255, 0.6) !important; /* Slightly solid white backing for card readability */
+}
+
+/* Ensure Backgound text stands out cleanly over the image background */
+.background-callout {
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 1.25rem 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  font-size: 1.1rem !important; /* Adjust size */
+}
+
+.background-heading h2 {
+  font-size: 2.25rem !important; /* Adjust size */
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: #000;
+  font-weight: 800;
+}
+/* Heading Style for Focus Areas (No background behind it) */
+.FocusArea-callout h2 {
+  font-size: 2.25rem !important; /* Adjust size*/
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: #000;
+  font-weight: 800;
+}
+/* Contributor Headshot Styling */
+.card-body img {
+  width: 170px;
+  height: 170px;
+  object-fit: cover;         /* Prevents stretching or distortion */
+  border-radius: 50%;        /* Crops image into a perfect circle */
+  margin-bottom: 0.0rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12); /* Soft drop shadow */
+  border: 3px solid #ffffff;  /* Clean white border ring */
+}
+/* Force all text elements in contributor cards to be centered */
+.card-body p,
+.card-body a{
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+/* Hide Quarto's automatic anchor link icons on card headings */
+.card-body .anchorjs-link,
+.card-body a.header-section-number,
+.card-body h3 a,
+.card-body h4 a {
+  display: none !important;
+}
+
+/* Fix Bootstrap row card stretching */
+.row-cols-lg-4 > .col {
+  flex: 0 0 auto !important;
+  width: 25% !important; /* Forces each card to occupy exactly 1/4 of the container width */
+}
+
+@media (max-width: 991px) {
+  .row-cols-lg-4 > .col {
+    width: 33.333% !important; /* 3 cards per row on mid-size screens */
+  }
+}
+
+@media (max-width: 767px) {
+  .row-cols-lg-4 > .col {
+    width: 50% !important; /* 2 cards per row on mobile/tablets */
+  }
+}
+
+@media (max-width: 575px) {
+  .row-cols-lg-4 > .col {
+    width: 100% !important; /* Single stacked cards on small mobile screens */
+  }
+}
+
+/* Custom 4-Column Card Grid for Quarto */
+.card-grid-4 {
+  display: grid !important;
+  grid-template-columns: repeat(4, 1fr) !important; /* Forces exactly 4 equal columns */
+  gap: 0.5rem !important;                            /* Card spacing */
+  margin-bottom: 2rem !important;
+}
+
+/* Ensure cards take full height within the grid cell */
+.card-grid-4 .card {
+  height: 100% !important;
+}
+
+/* Responsive adjustments for tablet and mobile screens */
+@media (max-width: 992px) {
+  .card-grid-4 {
+    grid-template-columns: repeat(2, 1fr) !important; /* 2 columns on tablets */
+  }
+}
+
+@media (max-width: 576px) {
+  .card-grid-4 {
+    grid-template-columns: 1fr !important;            /* 1 column on mobile */
+  }
+}

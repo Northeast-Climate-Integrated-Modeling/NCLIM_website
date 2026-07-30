@@ -1,0 +1,143 @@
+---
+title: "Fisheries Decision Making"
+---
+
+## Overview
+
+Modern fisheries management requires tools that can explicitly account for environmental changes and observational uncertainties. This initiative evaluates how climate risks and data limitations impact harvest control rules (HCRs) and Acceptable Biological Catch (ABC) advice, supporting regional councils as they modernize risk policies and operationalize climate-informed management. The Fisheries Decision Making team conducts simulation testing on the performance of fisheries management strategies in the face of escalating climate impacts and data uncertainties. By utilizing and expanding Management Strategy Evaluation (MSE) frameworks, this project bridges climate science and fisheries management to support setting robust catch advice.
+
+::: callout-note
+### Key Objective
+
+Explore approaches to account for climate risk in setting catch advice.
+:::
+
+### Current Initiatives
+
+-   **Framework Development:** Leveraging existing models like Groundfish-MSE.
+-   **Stakeholder Integration:** Aligning ecosystem trade-offs with community and management priorities.
+-   **Climate-Informed Catch Advice:** Establishing frameworks to set Acceptable Biological Catch (ABC) while accounting for changing ecosystem productivity.
+
+------------------------------------------------------------------------
+
+## Target Audiences & Relevant Processes
+
+This research directly informs regional decision-making, management processes, and stock assessment frameworks along the U.S. East Coast:
+
+::::::::: {.grid .my-4}
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100 .shadow-sm}
+::: card-body
+<h4 class="card-title text-primary">
+
+<i class="bi bi-people-fill me-2"></i>Primary Users & Councils
+
+</h4>
+
+<p class="card-text text-muted mb-3">
+
+Regional management councils and science centers applying harvest control rules:
+
+</p>
+
+[NEFMC]{.badge .bg-primary .fs-6 .me-1 .mb-2} [MAFMC]{.badge .bg-primary .fs-6 .me-1 .mb-2} [SAFMC]{.badge .bg-primary .fs-6 .me-1 .mb-2} [NEFSC]{.badge .bg-secondary .fs-6 .me-1 .mb-2}
+:::
+::::
+:::::
+
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100 .shadow-sm}
+::: card-body
+<h4 class="card-title text-primary">
+
+<i class="bi bi-diagram-3-fill me-2"></i>Relevant Processes & Operations
+
+</h4>
+
+<p class="card-text text-muted mb-3">
+
+Key management frameworks and scientific integration pathways:
+
+</p>
+
+-   **Setting Catch Advice:** Integrating climate risk into Acceptable Biological Catch (ABC) control rules.
+-   **Risk Policy Modernization:** Evaluating and testing Council Risk Policy scoring and risk tolerance calculations.
+-   **Management Strategy Evaluation (MSE):** Testing performance across data uncertainty and climate scenarios.
+:::
+::::
+:::::
+:::::::::
+
+------------------------------------------------------------------------
+
+## Project Team
+
+Our interdisciplinary team brings together experts in quantitative ecology, stock assessment, and fisheries management strategy evaluation:
+
+::::::::::::::: {.grid .my-4}
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+<i class="bi bi-person-circle fs-1 text-secondary"></i>
+:::
+
+<h5 class="card-title mb-1">
+
+Lisa Kerr
+
+</h5>
+
+<p class="card-text text-muted small">
+
+Project Lead / Principal Investigator
+
+</p>
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+<i class="bi bi-person-circle fs-1 text-secondary"></i>
+:::
+
+<h5 class="card-title mb-1">
+
+Alex Schneider
+
+</h5>
+
+<p class="card-text text-muted small">
+
+Quantitative Fisheries Scientist
+
+</p>
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+<i class="bi bi-person-circle fs-1 text-secondary"></i>
+:::
+
+<h5 class="card-title mb-1">
+
+Roger Brothers
+
+</h5>
+
+<p class="card-text text-muted small">
+
+Quantitative Fisheries Scientist
+
+</p>
+::::
+:::::
+::::::
+:::::::::::::::

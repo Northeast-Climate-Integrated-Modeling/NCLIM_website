@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "NCLIM"
+  favicon: Figures/NCLIM_logo.png
+  navbar:
+    background: "#0b2545"
+    foreground: "#ffffff" # Keeps the menu text crisp white
+    search: true
+    logo: Figures/NCLIM_logo.png
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Focus Areas"
+        menu:
+          - text: "Fisheries Decision Making"
+            href: FisheriesDecisionMaking.qmd
+          - text: "Climate Adaptation"
+            href: ClimateAdaptation.qmd
+          - text: "Human Dimensions Modeling"
+            href: HumanDimensionsModeling.qmd
+          - text: "Biological Reference Points"
+            href: BiologicalReferencePoints.qmd
+          - text: "Stock Assessment"
+            href: StockAssessment.qmd
+          - text: "Ecosystem Modeling"
+            href: EcosystemModeling.qmd
+      - text: "Contributors"
+        href: Contributors.qmd
+      - text: "Publications"
+        href: publications.qmd
+    right:
+      - icon: github
+        href: https://github.com/Northeast-Climate-Integrated-Modeling
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

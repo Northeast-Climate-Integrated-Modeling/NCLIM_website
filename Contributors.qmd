@@ -1,0 +1,479 @@
+---
+title: "Contributors"
+page-layout: full
+toc: true
+---
+
+::: background-callout
+NCLIM brings together an interdisciplinary network of research scientists, oceanographers, ecosystem modelers, economists, and fisheries biologists across leading academic and government institutions.
+:::
+
+## University of Maine {.background-heading}
+
+::::::::::::::::: card-grid-4
+:::: {.card .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/LKerr.png)
+
+### Lisa Kerr
+
+*Associate Professor*\
+[Lisa.kerr1\@maine.edu](mailto:lisa.kerr1@maine.edu)
+:::
+::::
+
+:::: {.card .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/JBehan.png)
+
+### Jerelle Jesse
+
+*PhD Graduate Student*\
+[Jerelle.Jesse\@maine.edu](mailto:Jerelle.Jesse@maine.edu)
+:::
+::::
+
+:::: {.card .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/JLuddy.jpg)
+
+### Jamie Behan
+
+*Research Associate*\
+[Jamie.behan\@maine.edu](mailto:jamie.behan@maine.edu)
+:::
+::::
+
+:::: {.card .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/JJesse.jpg)
+
+### Julia Luddy
+
+*Research Associate*\
+[Julia.barron\@maine.edu](mailto:Julia.barron@maine.edu)
+:::
+::::
+
+:::: {.card .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/ASchnider.jpg)
+
+### Alexandra Schneider
+
+*Postdoctoral Research Associate*\
+[Alexandra.schneider\@maine.edu](mailto:alexandra.schneider@maine.edu)
+:::
+::::
+
+:::: {.card .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/RBrothers.jpg)
+
+### Roger Brothers
+
+*Postdoctoral Research Associate*\
+[John.brothers\@maine.edu](mailto:John.brothers@maine.edu)
+:::
+::::
+
+:::: {.card .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/CCarrano.jpg)
+
+### Cole Carrano
+
+*Postdoctoral Research Associate*\
+[Cole.Carrano\@maine.edu](mailto:Cole.Carrano@maine.edu)
+:::
+::::
+:::::::::::::::::
+
+------------------------------------------------------------------------
+
+## NOAA Fisheries {.background-heading}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::: {.grid .row-cols-1 .row-cols-sm-2 .row-cols-md-3 .row-cols-lg-4 .row-cols-xl-4 .g-4}
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/VSaba.png)
+
+### Vince Saba
+
+*Research Fishery Biologist*\
+[Vincent.Saba\@noaa.gov](mailto:Vincent.Saba@noaa.gov)
+
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/JDeroba.png)
+
+### Jon Deroba
+
+*Research Fishery Biologist*\
+[Jonathan.deroba\@noaa.gov](mailto:jonathan.deroba@noaa.gov)
+
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+
+![](Figures/Contributors/TMiller.png)
+
+### Tim Miller
+
+*Research Fishery Biologist*\
+[Timothy.j.miller\@noaa.gov](mailto:timothy.j.miller@noaa.gov)
+
+:::
+::::
+:::::
+
+
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+
+![](Figures/Contributors/AHart.png)
+
+### Amanda Hart
+
+*Fish Biologist*\
+[Amanda.hart\@noaa.gov](mailto:amanda.hart@noaa.gov)
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+
+![](Figures/Contributors/CLi.jpg)
+
+### Chengxue Li
+
+*Postdoctoral Research Associate (Affiliate)*\
+[Chengxue.li\@noaa.gov](mailto:chengxue.li@noaa.gov)
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/GBritten.jpg)
+
+### Greg Britten
+
+*Assistant Scientist I*\
+[gregory.britten\@whoi.edu](mailto:gregory.britten@whoi.edu)
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/JCaracappa.jpg)
+
+### Joe Caracappa
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/AHansell.jpg)
+
+### Alex Hansell
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/SLarge.jpg)
+
+### Scott Large
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/MLee.jpg)
+
+### Min-Yang Lee
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/MCutler.jpg)
+
+### Matt Cutler
+:::
+::::
+:::::
+
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/ELiljestrand.jpg)
+
+### Emily Liljestrand
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/KSmith.jpg)
+
+### Katrina Zarella Smith
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/KMorrill.jpg)
+
+### Kiera Morrill
+:::
+::::
+:::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------------------------------------------------------------------------
+
+## Gulf of Maine Research Institute (GMRI) {.background-heading}
+
+::::::::::::::: {.grid .row-cols-1 .row-cols-sm-2 .row-cols-md-3 .row-cols-lg-4 .row-cols-xl-4 .g-4}
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Kathy Mills
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Andrew Allyn
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Miguel Barajas
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Katherine Maltby
+:::
+::::
+:::::
+:::::::::::::::
+
+------------------------------------------------------------------------
+
+## Rutgers University {.background-heading}
+
+::::::::::::::: {.grid .row-cols-1 .row-cols-sm-2 .row-cols-md-3 .row-cols-lg-4 .row-cols-xl-4 .g-4}
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### John Wiedemann
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Malin Pinsky
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Enrique Curchitser
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Jeewantha Bandara
+:::
+::::
+:::::
+:::::::::::::::
+
+------------------------------------------------------------------------
+
+## UMass Dartmouth (SMAST) {.background-heading}
+
+:::::::::::::::::::::::: {.grid .row-cols-1 .row-cols-sm-2 .row-cols-md-3 .row-cols-lg-4 .row-cols-xl-4 .g-4}
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Steve Cadrin
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Gavin Fay
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Madeline Guyant
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Jessica Kittel
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Leander Hohne
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Kelsey Roberts
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Sophie Wulfing
+:::
+::::
+:::::
+::::::::::::::::::::::::
+
+------------------------------------------------------------------------
+
+## University of Delaware {.background-heading}
+
+:::::: {.grid .row-cols-1 .row-cols-sm-2 .row-cols-md-3 .row-cols-lg-4 .row-cols-xl-4 .g-4}
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Anna Birkenbach
+:::
+::::
+:::::
+::::::
+
+------------------------------------------------------------------------
+
+## Past Contributors {.background-heading}
+
+:::::::::::::::::::::::: {.grid .row-cols-1 .row-cols-sm-2 .row-cols-md-3 .row-cols-lg-4 .row-cols-xl-4 .g-4}
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Hubert du Pontavice
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Gregory Bopp
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Katherine Maltby
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Malin Pinsky
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Jessica Kittel
+:::
+::::
+:::::
+
+::::: g-col
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+### Andy Pershing
+:::
+::::
+:::::
+
+
+::::
+:::::
+::::::::::::::::::::::::
+
+------------------------------------------------------------------------

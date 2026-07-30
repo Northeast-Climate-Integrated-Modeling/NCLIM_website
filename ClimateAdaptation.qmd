@@ -1,0 +1,165 @@
+---
+title: "Climate Adaptation"
+---
+
+## Overview
+
+Previous studies of climate adaptation in marine fisheries in the Northeast U.S. have revealed adaptation strategies of harvesters that include shifting fishing grounds, target species, or landing ports as species distributions shift with warming waters. Broader insights from fishing communities have indicated that diverse adaptation approaches are being employed by the harvest sector, supply chain entities, and fishing communities. However, these studies have been limited to a few fisheries and fishing communities. There remains a need for broader documentation and understanding of how fisheries in the region are adapting, and to which climate impacts, by eliciting experiences across multiple fisheries and fleet types. Consideration of the broader drivers, contexts and considerations affecting adaptation decisions is also needed. At the same time, while increasing efforts are being made to understand adaptation responses within fishing communities, there is limited evidence of adaptation social science being used within management and modelling efforts to inform climate-informed decision-making within the Northeast US. Examining the current state of adaptation science within the region, determining key challenges and opportunities to its integration in modelling and/or management processes, and identifying on-ramps and in-roads is necessary to ensure that adaptation social science can be actively used and considered in key decisions.
+
+::: callout-note
+### Key Objective
+
+Progress understanding into the adaptation strategies being used within Northeast US fishing communities and examine pathways for integration of adaptation science in modeling and management approaches.
+:::
+
+### Current Initiatives
+
+-   **Stakeholder Engagement:** Engage fishing community stakeholders through oral history interviews and workshops to elucidate adaptation strategies, examine contextual factors and drivers affecting responses, and co-develop climate adaptation strategy scenarios.
+-   **Synthesis of Adaptation Science:** Conduct a synthesis of adaptation social science within the region, paired with interviews with key stakeholders (scientists, managers), to understand current status of the science and determine key challenges and opportunities for uptake.
+-   **Integration Pathways:** Identify in-roads for the integration of adaptation social science for use in modelling and management efforts, through project methods (e.g. as in objective 1) as well as more broadly identifying best practices from other projects or regions.
+
+------------------------------------------------------------------------
+
+## Target Audiences & Key Stakeholders
+
+This research directly engages key regional decision-makers and resource users to ensure actionable social science uptake:
+
+::::::::: {.grid .my-4}
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100 .shadow-sm}
+::: card-body
+<h4 class="card-title text-primary">
+
+<i class="bi bi-people-fill me-2"></i>Primary Users
+
+</h4>
+
+<p class="card-text text-muted mb-3">
+
+Management bodies and research centers driving regional ocean governance:
+
+</p>
+
+[NEFMC]{.badge .bg-primary .fs-6 .me-1 .mb-2} [NEFSC]{.badge .bg-secondary .fs-6 .me-1 .mb-2}
+:::
+::::
+:::::
+
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100 .shadow-sm}
+::: card-body
+<h4 class="card-title text-primary">
+
+<i class="bi bi-diagram-3-fill me-2"></i>Community & Industry Partners
+
+</h4>
+
+<p class="card-text text-muted mb-3">
+
+Leaders and representatives engaged in co-designing climate strategies:
+
+</p>
+
+-   Fishing Community Leaders
+-   Fishing Organizations
+-   Industry Representatives
+:::
+::::
+:::::
+:::::::::
+
+------------------------------------------------------------------------
+
+## Project Team
+
+Our interdisciplinary team brings together experts across marine research institutions and federal agencies:
+
+::::::::::::::::::: {.grid .my-4}
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-3}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+<i class="bi bi-person-circle fs-1 text-secondary"></i>
+:::
+
+<h5 class="card-title mb-1">
+
+Kathy Mills
+
+</h5>
+
+<p class="card-text text-muted small">
+
+Gulf of Maine Research Institute (GMRI)
+
+</p>
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-3}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+<i class="bi bi-person-circle fs-1 text-secondary"></i>
+:::
+
+<h5 class="card-title mb-1">
+
+Matt Cutler
+
+</h5>
+
+<p class="card-text text-muted small">
+
+NOAA Fisheries
+
+</p>
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-3}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+<i class="bi bi-person-circle fs-1 text-secondary"></i>
+:::
+
+<h5 class="card-title mb-1">
+
+Kiera Morrill
+
+</h5>
+
+<p class="card-text text-muted small">
+
+NOAA Affiliate
+
+</p>
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-3}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+<i class="bi bi-person-circle fs-1 text-secondary"></i>
+:::
+
+<h5 class="card-title mb-1">
+
+Kat Maltby
+
+</h5>
+
+<p class="card-text text-muted small">
+
+Gulf of Maine Research Institute (GMRI)
+
+</p>
+::::
+:::::
+::::::
+:::::::::::::::::::

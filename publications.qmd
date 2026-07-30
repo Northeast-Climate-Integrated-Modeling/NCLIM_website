@@ -1,0 +1,42 @@
+---
+title: "Publications"
+editor: visual
+---
+
+## Peer reviewed literature
+
+du Pontavice, H., Chen, Z., Saba, V.S. 2023. A high-resolution bottom temperature product for the northeast U.S. continental shelf marine ecosystem. Progress in Oceanography, 210: 102948.  Link to pdf.
+
+Mazur, M.,  Jesse, J., Cadrin, S.X., Truesdell, S.B., Kerr, L.A. 2023.  Consequences of ignoring climate impacts on New England groundfish stock assessment and management. Fisheries Research https://doi.org/10.1016/j.fishres.2023.106652
+
+Mason, J….Kerr, L. et al. 2023. Linking knowledge and action for climate-ready fisheries: emerging best practices across the US. Marine Policy. https://doi.org/10.1016/j.marpol.2023.105758
+
+Li, C, Deroba, J.J., Miller, T.J., Legault, C.M., and Perretti, C. 2024. An evaluation of common stock assessment diagnostic tools for choosing among state-space models. https://doi.org/10.1016/j.fishres.2024.106968
+
+Levy, B. A., Legault, C. M., Miller, T. J., Brooks, E. N. In prep. Estimating population trends with stratified random sampling under the pressures of climate change. TBD.
+
+Ross et al. (2023).  Geosci. Model Dev., 16, 6943–6985, 2023 https://doi.org/10.5194/gmd-16-6943-2023
+
+Saba, V. et al. 2023. NOAA Fisheries research geared towards climate-ready living marine resource management in the northeast United States. PLOS Climate. https://doi.org/10.1371/journal.pclm.0000323
+
+## Reports and white papers
+
+Behan, J., Kerr, L., Hart, A., Hansell,A., Paklovitch, T., Cadrin, S. ToR 1:TOR1: Ecosystem and Climate Influences. American Plaice Research Track Stock Assessment Report. https://apps-nefsc.fisheries.noaa.gov/saw/sasi.php
+
+Behan et al. 2022. Ecosystem and Climate Influences on Stock Dynamics of American Plaice. Working paper prepared for ToR 1 in the American Plaice Research Track Stock Assessment.
+
+Behan et al. 2022. Modeling climate influences on American Plaice stock dynamics. Working paper prepared for ToR 1 in the American Plaice Research Track Stock Assessment.
+
+Behan et al. 2022. Ecosystem Profile of Atlantic cod. Working paper prepared for the Atlantic Cod Research Track Stock Assessment.
+
+Hart et al. 2022. A state-space assessment of American plaice using the Woods Hole Assessment Model (WHAM).
+
+Working paper prepared for ToR 4 in the American Plaice Research Track Stock Assessment. Behan, J. 2023. Ecosystem Influences on Atlantic Cod Stock Dynamics.
+
+Working paper prepared for ToR 1 in the Atlantic Cod Research Track Stock Assessment.
+
+Kerr, L., Behan, J. 2023. Defining Projections and Biological Reference points for Atlantic Cod in a Changing Ecosystem. Working paper prepared for ToR 5 in the Atlantic Cod Research Track Stock Assessment.
+
+Hart, A. and Kerr, L. 2023. Assessment model development for the Georges Bank Atlantic cod stock. Working paper prepared for ToR 4 in the Atlantic Cod Research track Stock Assessment.
+
+
