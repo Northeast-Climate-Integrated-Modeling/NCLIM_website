@@ -15,11 +15,11 @@ Building multi-institutional, interdisciplinary, and modeling capacity to suppor
 ::: {.background-callout}
 Commercial and recreational fisheries are economic and cultural staples for many communities in the Northeast U.S., but changing environmental conditions call into question the long-term viability of these fisheries. Observed shifts in species distributions and productivity have already been linked to ocean warming and these impacts are expected to grow over time as waters in the Northwest Atlantic continue to warm at a rate four times the global average. There is an increasing need to understand how environmental shifts impact fisheries and develop adaptive strategies for fisheries to continue operating in the future.
 
-Beyond biological and ecosystem impacts, changing climate can directly impact the efficacy of existing fisheries management efforts. Stock assessments make data-informed assumptions about biological processes (e.g. growth, recruitment, and mortality) and harvesting characteristics (e.g. survey and fishery catchability) to evaluate stock status. Failure to identify and integrate climate impacts on stock and fishery dynamics into management procedures can result in biased estimates of stock status and ineffective harvest control rules. There is a need to identify when and how climate influences stock and fishery dynamics and to explore candidate management procedures that account for climate impacts more explicitly.
+Beyond biological and ecosystem impacts, a changing climate can directly impact the efficacy of existing fisheries management efforts. Stock assessments make data-informed assumptions about biological processes (e.g. growth, recruitment, and mortality) and harvesting characteristics (e.g. survey and fishery catchability) to evaluate stock status. Failure to identify and integrate climate impacts on stock and fishery dynamics into management procedures can result in biased estimates of stock status and ineffective harvest control rules. There is a need to identify when and how climate influences stock and fishery dynamics and to explore candidate management procedures that account for climate impacts more explicitly.
 :::
 
 ::: {.FocusArea-callout}
-## Focus Areas
+## Our Focus Areas
 :::
 
 ::::::::::::::::::::: grid
@@ -28,7 +28,7 @@ Beyond biological and ecosystem impacts, changing climate can directly impact th
 ::: card-body
 ### 1. Fisheries Decision Making
 
-Evaluating management strategies (MSE) to account for climate uncertainties and support stakeholder decision-making.
+Evaluating management strategies (MSE) to account for climate uncertainties and support stakeholder decision-making
 
 [Explore this focus area →](FisheriesDecisionMaking.qmd){.btn-nclim}
 :::
@@ -40,7 +40,7 @@ Evaluating management strategies (MSE) to account for climate uncertainties and 
 ::: card-body
 ### 2. Climate Adaptation
 
-Identifying climate-informed management solutions and proactive frameworks for long-term sustainability.
+Identifying climate-informed management solutions and proactive frameworks for long-term sustainability
 
 [Explore this focus area →](ClimateAdaptation.qmd){.btn-nclim}
 :::
@@ -52,7 +52,7 @@ Identifying climate-informed management solutions and proactive frameworks for l
 ::: card-body
 ### 3. Human Dimensions Modeling
 
-Integrating socio-economic models to understand community impacts and resource dependencies under shifting conditions.
+Integrating socio-economic models to understand community impacts and resource dependencies under shifting conditions
 
 [Explore this focus area →](HumanDimensionsModeling.qmd){.btn-nclim}
 :::
@@ -62,21 +62,9 @@ Integrating socio-economic models to understand community impacts and resource d
 ::::: {.g-col-12 .g-col-md-6}
 :::: category-card
 ::: card-body
-### 4. Biological Reference Points
+### 4. Stock Assessment
 
-Updating and testing climate-enhanced biological reference points to improve assessment advice.
-
-[Explore this focus area →](BiologicalReferencePoints.qmd){.btn-nclim}
-:::
-::::
-:::::
-
-::::: {.g-col-12 .g-col-md-6}
-:::: category-card
-::: card-body
-### 5. Stock Assessment
-
-Developing candidate climate-informed stock assessment methods (e.g., Woods Hole Assessment Model - WHAM).
+Developing candidate climate-informed stock assessment methods
 
 [Explore this focus area →](StockAssessment.qmd){.btn-nclim}
 :::
@@ -86,9 +74,22 @@ Developing candidate climate-informed stock assessment methods (e.g., Woods Hole
 ::::: {.g-col-12 .g-col-md-6}
 :::: category-card
 ::: card-body
+### 5. Biological Reference Points
+
+Updating and testing climate-enhanced biological reference points to improve assessment advice
+
+[Explore this focus area →](BiologicalReferencePoints.qmd){.btn-nclim}
+:::
+::::
+:::::
+
+
+::::: {.g-col-12 .g-col-md-6}
+:::: category-card
+::: card-body
 ### 6. Ecosystem Modeling
 
-Integrating global climate models, regional oceanography (NOAA-GFDL MOM6), and food web dynamics.
+Integrating global climate models, regional oceanography, and food web dynamics.
 
 [Explore this focus area →](EcosystemModeling.qmd){.btn-nclim}
 :::

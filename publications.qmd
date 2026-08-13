@@ -3,40 +3,193 @@ title: "Publications"
 editor: visual
 ---
 
-## Peer reviewed literature
+::::::::::::::::::::::::::::::::::::::::::::::: centered-div
+::::::::: publication-card
+::: publication-media
+ <img src="Figures/Publications/ClimateAttribution.png">
+:::
 
-du Pontavice, H., Chen, Z., Saba, V.S. 2023. A high-resolution bottom temperature product for the northeast U.S. continental shelf marine ecosystem. Progress in Oceanography, 210: 102948.  Link to pdf.
+::::::: publication-content
+::: publication-title
+[Climate Attribution in Fishery Stock Assessment: Case Studies From the Northeast U.S. Groundfish Stocks](https://doi.org/10.1111/faf.70102)
+:::
 
-Mazur, M.,  Jesse, J., Cadrin, S.X., Truesdell, S.B., Kerr, L.A. 2023.  Consequences of ignoring climate impacts on New England groundfish stock assessment and management. Fisheries Research https://doi.org/10.1016/j.fishres.2023.106652
+::: publication-year
+2026
+:::
 
-Mason, J….Kerr, L. et al. 2023. Linking knowledge and action for climate-ready fisheries: emerging best practices across the US. Marine Policy. https://doi.org/10.1016/j.marpol.2023.105758
+::: publication-authors
+Kerr LA, Behan JT, Cadrin SX, Hansell AC, Hart AR, Kittel JA, Large SI, Miller, TJ, Tyrell AS
+:::
 
-Li, C, Deroba, J.J., Miller, T.J., Legault, C.M., and Perretti, C. 2024. An evaluation of common stock assessment diagnostic tools for choosing among state-space models. https://doi.org/10.1016/j.fishres.2024.106968
-
-Levy, B. A., Legault, C. M., Miller, T. J., Brooks, E. N. In prep. Estimating population trends with stratified random sampling under the pressures of climate change. TBD.
-
-Ross et al. (2023).  Geosci. Model Dev., 16, 6943–6985, 2023 https://doi.org/10.5194/gmd-16-6943-2023
-
-Saba, V. et al. 2023. NOAA Fisheries research geared towards climate-ready living marine resource management in the northeast United States. PLOS Climate. https://doi.org/10.1371/journal.pclm.0000323
-
-## Reports and white papers
-
-Behan, J., Kerr, L., Hart, A., Hansell,A., Paklovitch, T., Cadrin, S. ToR 1:TOR1: Ecosystem and Climate Influences. American Plaice Research Track Stock Assessment Report. https://apps-nefsc.fisheries.noaa.gov/saw/sasi.php
-
-Behan et al. 2022. Ecosystem and Climate Influences on Stock Dynamics of American Plaice. Working paper prepared for ToR 1 in the American Plaice Research Track Stock Assessment.
-
-Behan et al. 2022. Modeling climate influences on American Plaice stock dynamics. Working paper prepared for ToR 1 in the American Plaice Research Track Stock Assessment.
-
-Behan et al. 2022. Ecosystem Profile of Atlantic cod. Working paper prepared for the Atlantic Cod Research Track Stock Assessment.
-
-Hart et al. 2022. A state-space assessment of American plaice using the Woods Hole Assessment Model (WHAM).
-
-Working paper prepared for ToR 4 in the American Plaice Research Track Stock Assessment. Behan, J. 2023. Ecosystem Influences on Atlantic Cod Stock Dynamics.
-
-Working paper prepared for ToR 1 in the Atlantic Cod Research Track Stock Assessment.
-
-Kerr, L., Behan, J. 2023. Defining Projections and Biological Reference points for Atlantic Cod in a Changing Ecosystem. Working paper prepared for ToR 5 in the Atlantic Cod Research Track Stock Assessment.
-
-Hart, A. and Kerr, L. 2023. Assessment model development for the Georges Bank Atlantic cod stock. Working paper prepared for ToR 4 in the Atlantic Cod Research track Stock Assessment.
+:::::::
+:::::::::
 
 
+::::::::: publication-card
+::: publication-media
+ <img src="Figures/Publications/Behan2026png2.png">
+:::
+
+::::::: publication-content
+::: publication-title
+[Impacts of changing ocean conditions on American plaice (Hippoglossoides platessoides) stock dynamics](https://doi.org/10.1007/s10641-026-01867-z)
+:::
+
+::: publication-year
+2026
+:::
+
+::: publication-authors
+Behan JT, Kerr LA
+:::
+
+:::::::
+:::::::::
+
+::::::::: publication-card
+::: publication-media
+ <img src="Figures/Publications/Multispeciespopulation.jpeg">
+:::
+
+::::::: publication-content
+::: publication-title
+[Multispecies population-scale emergence of climate change signals in an ocean warming hotspot](https://doi.org/10.1093/icesjms/fsad208)
+:::
+
+::: publication-year
+2024
+:::
+
+::: publication-authors
+Mills KE, Kemberling A, Kerr LA, Lucey SM, McBride RS, Nye JA, Pershing AJ, Barajas M, Lovas CS
+:::
+
+:::::::
+:::::::::
+
+::::::::: publication-card
+::: publication-media
+ <img src="Figures/Publications/Evaluationcommon.jpg">
+:::
+
+::::::: publication-content
+::: publication-title
+[An evaluation of common stock assessment diagnostic tools for choosing among state-space models](https://doi.org/10.1016/j.fishres.2024.106968)
+:::
+
+::: publication-year
+2024
+:::
+
+::: publication-authors
+Li C, Deroba JJ, Miller TJ, Legault CM, Perretti CT
+:::
+
+:::::::
+:::::::::
+
+::::::::: publication-card
+::: publication-media
+ <img src="Figures/Publications/Highresolution.jpg">
+:::
+
+::::::: publication-content
+::: publication-title
+[A high-resolution bottom temperature product for the northeast U.S. continental shelf marine ecosystem](https://doi.org/10.1016/j.pocean.2022.102948)
+:::
+
+::: publication-year
+2023
+:::
+
+::: publication-authors
+du Pontavice H, Chen Z, Saba, VS
+:::
+
+:::::::
+:::::::::
+
+::::::::: publication-card
+::: publication-media
+ <img src="Figures/Publications/Consequencesignoring.jpg">
+:::
+
+::::::: publication-content
+::: publication-title
+[Consequences of ignoring climate impacts on New England groundfish stock assessment and management](https://doi.org/10.1016/j.fishres.2023.106652)
+:::
+
+::: publication-year
+2023
+:::
+
+::: publication-authors
+Mazur MD, Jesse J, Cadrin SX, Truesdell SB, Kerr L
+:::
+
+:::::::
+:::::::::
+
+::::::::: publication-card
+::: publication-media
+ <img src="Figures/Publications/physical-biogeochemical.png">
+:::
+
+::::::: publication-content
+::: publication-title
+[A high-resolution physical–biogeochemical model for marine resource applications in the northwest Atlantic (MOM6-COBALT-NWA12 v1.0)](https://doi.org/10.5194/gmd-16-6943-2023)
+:::
+
+::: publication-year
+2023
+:::
+
+::: publication-authors
+Ross AC, Stock CA, Adcroft A, Curchitser E, Hallberg R, Harrison MJ, Hedstrom K, et al.
+:::
+
+:::::::
+:::::::::
+
+::::::::: publication-card
+::: publication-media
+ <img src="Figures/Publications/Estimatingpopulation.jpg">
+:::
+
+::::::: publication-content
+::: publication-title
+[Estimating population trends with stratified random sampling under the pressures of climate change](https://doi.org/10.1016/j.fishres.2023.106652)
+:::
+
+::: publication-year
+2023
+:::
+
+::: publication-authors
+Mazur MD, Jesse J, Cadrin SX, Truesdell SB, Kerr L
+:::
+
+:::::::
+:::::::::
+
+::::::::: publication-card
+::: publication-media
+ <img src="Figures/Publications/NOAAFisheries.png">
+:::
+
+::::::: publication-content
+::: publication-title
+[NOAA Fisheries research geared towards climate-ready living marine resource management in the northeast United States](https://doi.org/10.1371/journal.pclm.0000323)
+:::
+
+::: publication-year
+2023
+:::
+
+::: publication-authors
+ Saba V, Borggaard D, Caracappa JC, Chambers RC, Clay PM, Colburn LL, et al.
+:::
+
+:::::::
+:::::::::

@@ -1,0 +1,193 @@
+---
+title: "Biological Reference Points"
+---
+
+## Overview
+
+::: {.background-callout}
+Biological reference points (BRPs) are a fundamental aspect of fisheries management that determine when a stock is overfished or experiencing overfishing, and inform rebuilding plans and catch advice. BRPs typically assume that growth, natural mortality, maturity, and recruitment are constant over time. However, climate change can influence stock productivity and violate the assumptions in stock assessment and estimation of BRPs. If BRPs are not updated to reflect changing productivity, management may lead to overly optimistic catch advice, delayed rebuilding timelines, or target stock levels that are no longer attainable The redefinition of reference points to reflect current stock productivity is one of the key management challenges in the Northeast U.S. and this challenge will become more pervasive as climate change accelerates. 
+Recent examples of redefining BRPs in New England include incorporating updated recruitment stanzas, environmental covariates, and time-varying productivity. Additional methods have been applied globally. There are challenges with each method and how to address non-stationarity in stock productivity in the context of reference points remains an open question. This work will inform best practices in estimating reference points  in our changing ecosystem.
+
+:::
+
+::: callout-note
+### Key Objective
+
+Advance approaches in accounting for climate change in defining biological reference points.
+:::
+
+### Current Initiatives
+
+::: {.background-callout}
+-   **Stakeholder Engagement:** Engage scientists and fisheries stakeholders in the region with the aim of co-developing best practices and providing guidance on the topic
+-   **Synthesis Work:** Conduct synthesis to characterize approaches to defining reference points in the US and responsive approaches to ecosystem change in the US and globally
+-   **Simulation Testing:** Conduct simulation testing to assess the performance of status quo and alternative approaches to defining reference points in a changing Northeast US shelf ecosystem
+-   **Retrospective Analysis:** Apply retrospective analysis to assess changes in reference points over time compared to dynamic reference points
+:::
+
+------------------------------------------------------------------------
+
+## Target Audiences & Relevant Processes
+
+::: {.background-callout}
+This research directly informs stock assessments, fishery management plan revisions, and NEFMC risk policy revision:
+:::
+
+::::::::: {.grid .my-4}
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100 .shadow-sm}
+::: card-body
+<h4 class="card-title text-primary">
+
+<i class="bi bi-people-fill me-2"></i>Primary Users & Councils
+
+</h4>
+
+<p class="card-text text-muted mb-3">
+
+Regional management councils and science centers utilizing climate-informed reference points to redefine stock management:
+
+</p>
+
+[NEFSC]{.badge .bg-primary .fs-6 .me-1 .mb-2} [MAFMC]{.badge .bg-primary .fs-6 .me-1 .mb-2} [NEFMC]{.badge .bg-primary .fs-6 .me-1 .mb-2}
+:::
+::::
+:::::
+
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100 .shadow-sm}
+::: card-body
+<h4 class="card-title text-primary">
+
+<i class="bi bi-diagram-3-fill me-2"></i>Relevant Processes & Operations
+
+</h4>
+
+<p class="card-text text-muted mb-3">
+
+Key management frameworks and scientific integration pathways:
+
+</p>
+
+-   **Stock Assessments:** Integrates climate impacts to improve short-term forecasts and reference points
+-   **Fisheries Management Plan Revisions:** Guides realistic, ecosystem-responsive rebuilding targets and harvest control rules
+-   **NEFMC Risk Policy Revision:** Provides decision tools to refine risk tolerance under shifting productivity
+:::
+::::
+:::::
+:::::::::
+
+------------------------------------------------------------------------
+
+## Project Team
+
+::: {.background-callout}
+Our interdisciplinary team brings together experts in quantitative ecology, stock assessment, and fisheries management strategy evaluation:
+:::
+
+::::::::::::::: {.grid .my-4}
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/LKerr.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Lisa Kerr
+
+</h5>
+
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/JJesse.jpg)
+:::
+
+<h5 class="card-title mb-1">
+
+Jerelle Jesse
+
+</h5>
+
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/TMiller.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Tim Miller
+
+</h5>
+
+::::
+:::::
+::::::
+:::::::::::::::
+
+::::::::::::::: {.grid .my-4}
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/JDeroba.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Jon Deroba
+
+</h5>
+
+::::
+:::::
+::::::
+
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/AHansell.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Alex Hansell
+
+</h5>
+
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/JWiedemann.jpg)
+:::
+
+<h5 class="card-title mb-1">
+
+John Wiedemann
+
+</h5>
+
+::::
+:::::
+::::::
+:::::::::::::::
