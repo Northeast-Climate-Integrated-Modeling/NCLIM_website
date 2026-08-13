@@ -157,7 +157,7 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 
 :::: {.card .h-75 .text-center .shadow-sm}
 ::: card-body
-![](Figures/Contributors/JCaracappa.jpg)
+![](Figures/Contributors/Jcaracappa.jpg)
 
 ### Joe Caracappa
 
