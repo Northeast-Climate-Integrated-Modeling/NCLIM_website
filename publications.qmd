@@ -3,13 +3,13 @@ title: "Publications"
 editor: visual
 ---
 
-::::::::::::::::::::::::::::::::::::::::::::::: centered-div
-::::::::: publication-card
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::: centered-div
+:::::::: publication-card
 ::: publication-media
- <img src="Figures/Publications/ClimateAttribution.png">
+<img src="Figures/Publications/ClimateAttribution.png"/>
 :::
 
-::::::: publication-content
+:::::: publication-content
 ::: publication-title
 [Climate Attribution in Fishery Stock Assessment: Case Studies From the Northeast U.S. Groundfish Stocks](https://doi.org/10.1111/faf.70102)
 :::
@@ -21,17 +21,15 @@ editor: visual
 ::: publication-authors
 Kerr LA, Behan JT, Cadrin SX, Hansell AC, Hart AR, Kittel JA, Large SI, Miller, TJ, Tyrell AS
 :::
+::::::
+::::::::
 
-:::::::
-:::::::::
-
-
-::::::::: publication-card
+:::::::: publication-card
 ::: publication-media
- <img src="Figures/Publications/Behan2026png2.png">
+<img src="Figures/Publications/Behan2026png2.png"/>
 :::
 
-::::::: publication-content
+:::::: publication-content
 ::: publication-title
 [Impacts of changing ocean conditions on American plaice (Hippoglossoides platessoides) stock dynamics](https://doi.org/10.1007/s10641-026-01867-z)
 :::
@@ -43,16 +41,15 @@ Kerr LA, Behan JT, Cadrin SX, Hansell AC, Hart AR, Kittel JA, Large SI, Miller, 
 ::: publication-authors
 Behan JT, Kerr LA
 :::
+::::::
+::::::::
 
-:::::::
-:::::::::
-
-::::::::: publication-card
+:::::::: publication-card
 ::: publication-media
- <img src="Figures/Publications/Multispeciespopulation.jpeg">
+<img src="Figures/Publications/Multispeciespopulation.jpeg"/>
 :::
 
-::::::: publication-content
+:::::: publication-content
 ::: publication-title
 [Multispecies population-scale emergence of climate change signals in an ocean warming hotspot](https://doi.org/10.1093/icesjms/fsad208)
 :::
@@ -64,16 +61,15 @@ Behan JT, Kerr LA
 ::: publication-authors
 Mills KE, Kemberling A, Kerr LA, Lucey SM, McBride RS, Nye JA, Pershing AJ, Barajas M, Lovas CS
 :::
+::::::
+::::::::
 
-:::::::
-:::::::::
-
-::::::::: publication-card
+:::::::: publication-card
 ::: publication-media
- <img src="Figures/Publications/Evaluationcommon.jpg">
+<img src="Figures/Publications/Evaluationcommon.jpg"/>
 :::
 
-::::::: publication-content
+:::::: publication-content
 ::: publication-title
 [An evaluation of common stock assessment diagnostic tools for choosing among state-space models](https://doi.org/10.1016/j.fishres.2024.106968)
 :::
@@ -85,16 +81,15 @@ Mills KE, Kemberling A, Kerr LA, Lucey SM, McBride RS, Nye JA, Pershing AJ, Bara
 ::: publication-authors
 Li C, Deroba JJ, Miller TJ, Legault CM, Perretti CT
 :::
+::::::
+::::::::
 
-:::::::
-:::::::::
-
-::::::::: publication-card
+:::::::: publication-card
 ::: publication-media
- <img src="Figures/Publications/Highresolution.jpg">
+<img src="Figures/Publications/Highresolution.jpg"/>
 :::
 
-::::::: publication-content
+:::::: publication-content
 ::: publication-title
 [A high-resolution bottom temperature product for the northeast U.S. continental shelf marine ecosystem](https://doi.org/10.1016/j.pocean.2022.102948)
 :::
@@ -106,16 +101,15 @@ Li C, Deroba JJ, Miller TJ, Legault CM, Perretti CT
 ::: publication-authors
 du Pontavice H, Chen Z, Saba, VS
 :::
+::::::
+::::::::
 
-:::::::
-:::::::::
-
-::::::::: publication-card
+:::::::: publication-card
 ::: publication-media
- <img src="Figures/Publications/Consequencesignoring.jpg">
+<img src="Figures/Publications/Consequencesignoring.jpg"/>
 :::
 
-::::::: publication-content
+:::::: publication-content
 ::: publication-title
 [Consequences of ignoring climate impacts on New England groundfish stock assessment and management](https://doi.org/10.1016/j.fishres.2023.106652)
 :::
@@ -127,16 +121,15 @@ du Pontavice H, Chen Z, Saba, VS
 ::: publication-authors
 Mazur MD, Jesse J, Cadrin SX, Truesdell SB, Kerr L
 :::
+::::::
+::::::::
 
-:::::::
-:::::::::
-
-::::::::: publication-card
+:::::::: publication-card
 ::: publication-media
- <img src="Figures/Publications/physical-biogeochemical.png">
+<img src="Figures/Publications/physical-biogeochemical.png"/>
 :::
 
-::::::: publication-content
+:::::: publication-content
 ::: publication-title
 [A high-resolution physical–biogeochemical model for marine resource applications in the northwest Atlantic (MOM6-COBALT-NWA12 v1.0)](https://doi.org/10.5194/gmd-16-6943-2023)
 :::
@@ -148,16 +141,15 @@ Mazur MD, Jesse J, Cadrin SX, Truesdell SB, Kerr L
 ::: publication-authors
 Ross AC, Stock CA, Adcroft A, Curchitser E, Hallberg R, Harrison MJ, Hedstrom K, et al.
 :::
+::::::
+::::::::
 
-:::::::
-:::::::::
-
-::::::::: publication-card
+:::::::: publication-card
 ::: publication-media
- <img src="Figures/Publications/Estimatingpopulation.jpg">
+<img src="Figures/Publications/Estimatingpopulation.jpg"/>
 :::
 
-::::::: publication-content
+:::::: publication-content
 ::: publication-title
 [Estimating population trends with stratified random sampling under the pressures of climate change](https://doi.org/10.1016/j.fishres.2023.106652)
 :::
@@ -169,16 +161,15 @@ Ross AC, Stock CA, Adcroft A, Curchitser E, Hallberg R, Harrison MJ, Hedstrom K,
 ::: publication-authors
 Mazur MD, Jesse J, Cadrin SX, Truesdell SB, Kerr L
 :::
+::::::
+::::::::
 
-:::::::
-:::::::::
-
-::::::::: publication-card
+:::::::: publication-card
 ::: publication-media
- <img src="Figures/Publications/NOAAFisheries.png">
+<img src="Figures/Publications/NOAAFisheries.PNG"/>
 :::
 
-::::::: publication-content
+:::::: publication-content
 ::: publication-title
 [NOAA Fisheries research geared towards climate-ready living marine resource management in the northeast United States](https://doi.org/10.1371/journal.pclm.0000323)
 :::
@@ -188,8 +179,8 @@ Mazur MD, Jesse J, Cadrin SX, Truesdell SB, Kerr L
 :::
 
 ::: publication-authors
- Saba V, Borggaard D, Caracappa JC, Chambers RC, Clay PM, Colburn LL, et al.
+Saba V, Borggaard D, Caracappa JC, Chambers RC, Clay PM, Colburn LL, et al.
 :::
-
-:::::::
-:::::::::
+::::::
+::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
