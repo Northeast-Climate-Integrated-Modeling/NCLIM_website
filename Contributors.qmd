@@ -284,6 +284,18 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 
 :::
 ::::
+
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/SRisley.jpg)
+
+### Sarah Risley
+
+*Postdoctoral Research Associate*\
+[srisley@gmri.org](mailto:srisley@gmri.org)
+
+:::
+::::
 :::::::::::::::::
 
 ------------------------------------------------------------------------
