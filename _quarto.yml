@@ -29,12 +29,14 @@ website:
             href: EcosystemModeling.qmd
       - text: "Contributors"
         href: Contributors.qmd
-      - text: "Resources"
+      - text: "Tools and Publications"
         menu:
           - text: "Peer-Reviewed Publications"
             href: publications.qmd
           - text: "Reports and White Papers"
             href: whitepapers.qmd
+          - text: "Project Pages"
+            href: projects.qmd
     right:
       - icon: github
         href: https://github.com/Northeast-Climate-Integrated-Modeling
