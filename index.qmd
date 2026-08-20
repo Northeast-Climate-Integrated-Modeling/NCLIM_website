@@ -102,7 +102,7 @@ Integrating global climate models, regional oceanography, and food web dynamics.
 
 ::: {.funders-grid}
 
-[![](Figures/Funders/CINAR.png){alt="Cooperative Institute for the North Atlantic Region (CINAR)"}]{.funder-card href="https://website.whoi.edu/cinar/" target="_blank"}
+[![](Figures/Funders/CINAR.png){.funder-card alt="CINAR"}](https://website.whoi.edu/cinar/){target="_blank"}
 
 [![](Figures/Funders/CAFA.png){alt="Climate and Fisheries Adaptation (CAFA) Program"}]{.funder-card href="https://cpo.noaa.gov/divisions-programs/climate-and-societal-interactions/the-adaptation-sciences-program/climate-and-fisheries-adaptation-program/" target="_blank"}
 
