@@ -104,7 +104,7 @@ Integrating global climate models, regional oceanography, and food web dynamics.
 
 [![](Figures/Funders/CINAR.png){.funder-card alt="CINAR"}](https://website.whoi.edu/cinar/){target="_blank"}
 
-[![](Figures/Funders/CAFA.png){.funder-card
+[![](Figures/Funders/CAFA_1.png){.funder-card
 alt="Climate and Fisheries Adaptation (CAFA) Program"}](https://cpo.noaa.gov/divisions-programs/climate-and-societal-interactions/the-adaptation-sciences-program/climate-and-fisheries-adaptation-program/){target="_blank"}
 
 [![](Figures/Funders/NEFMC.png){.funder-card
@@ -112,9 +112,6 @@ alt="New England Fishery Management Council (NEFMC)"}](https://www.nefmc.org/){t
 
 [![](Figures/Funders/MAFMC.png){.funder-card
 alt="Mid-Atlantic Fishery Management Council (MAFMC)"}](https://www.mafmc.org/){target="_blank"}
-
-[![](Figures/Funders/NOAA.png){.funder-card
-alt="NOAA Fisheries"}](https://www.fisheries.noaa.gov/){target="_blank"}
 
 [![](Figures/Funders/NOAA_BTRP.png){.funder-card alt="https://www.fisheries.noaa.gov/grant/bluefin-tuna-research-program"}](https://www.fisheries.noaa.gov/grant/bluefin-tuna-research-program){target="_blank"}
 
