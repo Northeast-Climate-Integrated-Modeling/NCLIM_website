@@ -107,7 +107,7 @@ Integrating global climate models, regional oceanography, and food web dynamics.
 [![](Figures/Funders/CAFA_1.png){.funder-card
 alt="Climate and Fisheries Adaptation (CAFA) Program"}](https://cpo.noaa.gov/divisions-programs/climate-and-societal-interactions/the-adaptation-sciences-program/climate-and-fisheries-adaptation-program/){target="_blank"}
 
-[![](Figures/Funders/NEFMC.png){.funder-card
+[![](Figures/Funders/NEFMC1.png){.funder-card
 alt="New England Fishery Management Council (NEFMC)"}](https://www.nefmc.org/){target="_blank"}
 
 [![](Figures/Funders/MAFMC.png){.funder-card
