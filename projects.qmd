@@ -69,7 +69,13 @@ Click on a photo to go to the research track page for that species
 
 :::::: publication-content
 ::: publication-title
-[American Plaice Research Track](https://github.com/ahart1/PlaiceWG2021)
+American Plaice Research Track
+:::
+
+::: publication-year
+[Repository for WHAM modeling of American plaice in support of 2021-2022 research track stock assessment](https://github.com/ahart1/PlaiceWG2021)
+
+[Repository for modeling of American plaice in support of 2021-2022 research track stock assessment](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers)
 :::
 
 ::: publication-authors
@@ -80,7 +86,7 @@ American plaice is a commercially important flatfish in the Northeast U.S. and C
 
 :::::::: publication-card
 ::: publication-media
-<img src="Figures/Publications/Behan2026png2.png"/>
+<img src="Figures/Fish/Atlantic_Cod.png"/>
 :::
 
 :::::: publication-content
