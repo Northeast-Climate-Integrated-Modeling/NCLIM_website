@@ -3,11 +3,7 @@ title: "Project Pages"
 editor: visual
 ---
 
-<<<<<<< HEAD
 # Applications in Research Track Stock Assessments
-=======
-# Applications in research track stock assessments
->>>>>>> a1994c79dab82ab361fefaee6e4bd1f53df75be0
 
 :::::::::::::::::::: centered-div
 :::::::: project-card
