@@ -4,19 +4,71 @@ editor: visual
 ---
 
 # Applications in research track stock assessments
-
-Click on a photo to go to the research track page for that species
-
-::: {style="margin-right: 10px;"}
-[![](Figures/Fish/Black_seabass.png){height="200"}](BlackSeaBassRT.qmd)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::: centered-div
+:::::::: project-card
+::: publication-media
+![](Figures/Fish/AM_Plaice.png)
 :::
 
-<div>
+:::::: publication-content
+::: publication-title
+American Plaice Research Track
+:::
 
-[![](Figures/Fish/Atlantic_Cod.png){height="200"}](AtlanticCodRT.qmd)
+::: publication-authors
+American plaice is a commercially important flatfish in the Northeast U.S. and Canada that is considered rebuilt. In recent years plaice have shifted further offshore and into deeper water, this shift is expected to continue with likely negative effects on the stock as ocean temperatures warm and suitable habitat contracts. Temperature has been shown to influence plaice distribution, depth, growth rate, recruitment, and possibly maturity, while other climate drivers (e.g. NAO, AMO) have been linked to changing recruits per spawner and distribution. Although population dynamics and distribution have clear links to climate dynamics, to date these influences have not been incorporated into stock assessments for plaice nor has this knowledge been used to provide estimates of climate uncertainties that may benefit decision-making processes. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for American plaice.
+:::
 
-</div>
+::: project-link
+[WHAM assessment model for American plaice (2021–2022 research track)](https://github.com/ahart1/PlaiceWG2021)
+
+[Identifying environmental drivers of American plaice stock dynamics](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers)
+:::
+
 ::::::
+::::::::
+
+:::::::: project-card
+::: publication-media
+![](Figures/Fish/Atlantic_Cod.png)
+:::
+
+:::::: publication-content
+::: publication-title
+Atlantic Cod Research Track
+:::
+
+::: publication-authors
+Atlantic cod (Gadus morhua) are a benthopelagic fish whose range in the northwestern Atlantic extends from Greenland to Cape Hatteras, North Carolina, with the majority of biomass in United States waters in the western Gulf of Maine (GOM) and Georges Bank (GBK) regions (Fahay, Michael P. and Northeast Fisheries Science Center (U.S.) 1999). Changes in ocean conditions have been documented to affect key life history processes, including recruitment, distribution, and growth of Atlantic cod. The historical productivity of cod fisheries has been high, but has experienced substantial population declines since the 1990s. Including ecosystem variables in stock assessments may lead to more precautionary advice (CAUSES 2019; Lynch et al 2018). To help achieve more sustainable fisheries management, these climate and ecosystem shifts should be closely tracked and considered. Therefore, it is important to explore the ways in which ecosystem and climate changes are affecting distributions, stock dynamics, and other life history characteristics of species such as cod in the GOM and GBK regions. Understanding how cod respond to ecological and climate drivers will likely help to reduce uncertainties related to estimates of stock size and composition. These benefits may help to better inform or improve management. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for Atlantic cod.
+:::
+
+::: project-link
+[WHAM assessment model for Atlantic Cod (2022–2023 research track)](https://github.com/Northeast-Climate-Integrated-Modeling/Cod-Research-Track-Stock-Assessment)
+
+[Identifying environmental drivers of Atlantic cod stock dynamics](https://github.com/Jamie-Behan/Atlantic_cod)
+:::
+::::::
+::::::::
+
+:::::::: publication-card
+::: publication-media
+![](Figures/Fish/Black-Sea-Bass.png)
+:::
+
+:::::: publication-content
+::: publication-title
+[Multispecies population-scale emergence of climate change signals in an ocean warming hotspot](https://doi.org/10.1093/icesjms/fsad208)
+:::
+
+::: publication-authors
+Black sea bass is a commercially and recreationally important species in the New England and Mid-Atlantic regions that has shown increased productivity in response to warming temperatures. The species has exhibited a northward shift in response to climate that is captured by divergent state surveys (increases in northern surveys and decreases in the south) but the coastwide survey suggests variability without trend. The single-area stock assessment proposed in 2012 struggled to replicate these divergent survey trends and the model ultimately did not pass review. Subsequent work found that two-area models exhibited improved fit to survey data, and there is interest in further exploring approaches to account for climate-driven species distribution shifts in stock assessments. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for black sea bass.
+:::
+::::::
+::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
 
 # NCLIM Related Github Repositories
 
@@ -46,201 +98,3 @@ Click on a photo to go to the research track page for that species
 [**WHAM Repository**](https://timjmiller.github.io/wham/)
 :::
 ::::::::
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::: centered-div
-:::::::: project-card
-::: publication-media
-![](Figures/Fish/AM_Plaice.png)
-:::
-
-:::::: publication-content
-::: publication-title
-American Plaice Research Track
-:::
-
-::: project-link
-[WHAM assessment model for American plaice (2021–2022 research track)](https://github.com/ahart1/PlaiceWG2021)
-
-[Identifying environmental drivers of American plaice stock dynamics](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers)
-:::
-
-::: publication-authors
-American plaice is a commercially important flatfish in the Northeast U.S. and Canada that is considered rebuilt. In recent years plaice have shifted further offshore and into deeper water, this shift is expected to continue with likely negative effects on the stock as ocean temperatures warm and suitable habitat contracts. Temperature has been shown to influence plaice distribution, depth, growth rate, recruitment, and possibly maturity, while other climate drivers (e.g. NAO, AMO) have been linked to changing recruits per spawner and distribution. Although population dynamics and distribution have clear links to climate dynamics, to date these influences have not been incorporated into stock assessments for plaice nor has this knowledge been used to provide estimates of climate uncertainties that may benefit decision-making processes. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for American plaice.
-:::
-::::::
-::::::::
-
-:::::::: project-card
-::: publication-media
-![](Figures/Fish/Atlantic_Cod.png)
-:::
-
-:::::: publication-content
-::: publication-title
-[Impacts of changing ocean conditions on American plaice (Hippoglossoides platessoides) stock dynamics](https://doi.org/10.1007/s10641-026-01867-z)
-:::
-
-::: project-link
-2026
-:::
-
-::: publication-authors
-Behan JT, Kerr LA
-:::
-::::::
-::::::::
-
-:::::::: publication-card
-::: publication-media
-<img src="Figures/Fish/Black_seabass.png"/>
-:::
-
-:::::: publication-content
-::: publication-title
-[Multispecies population-scale emergence of climate change signals in an ocean warming hotspot](https://doi.org/10.1093/icesjms/fsad208)
-:::
-
-::: publication-year
-2024
-:::
-
-::: publication-authors
-Mills KE, Kemberling A, Kerr LA, Lucey SM, McBride RS, Nye JA, Pershing AJ, Barajas M, Lovas CS
-:::
-::::::
-::::::::
-
-:::::::: publication-card
-::: publication-media
-<img src="Figures/Publications/Evaluationcommon.jpg"/>
-:::
-
-:::::: publication-content
-::: publication-title
-[An evaluation of common stock assessment diagnostic tools for choosing among state-space models](https://doi.org/10.1016/j.fishres.2024.106968)
-:::
-
-::: publication-year
-2024
-:::
-
-::: publication-authors
-Li C, Deroba JJ, Miller TJ, Legault CM, Perretti CT
-:::
-::::::
-::::::::
-
-:::::::: publication-card
-::: publication-media
-<img src="Figures/Publications/Highresolution.jpg"/>
-:::
-
-:::::: publication-content
-::: publication-title
-[A high-resolution bottom temperature product for the northeast U.S. continental shelf marine ecosystem](https://doi.org/10.1016/j.pocean.2022.102948)
-:::
-
-::: publication-year
-2023
-:::
-
-::: publication-authors
-du Pontavice H, Chen Z, Saba, VS
-:::
-::::::
-::::::::
-
-:::::::: publication-card
-::: publication-media
-<img src="Figures/Publications/Consequencesignoring.jpg"/>
-:::
-
-:::::: publication-content
-::: publication-title
-[Consequences of ignoring climate impacts on New England groundfish stock assessment and management](https://doi.org/10.1016/j.fishres.2023.106652)
-:::
-
-::: publication-year
-2023
-:::
-
-::: publication-authors
-Mazur MD, Jesse J, Cadrin SX, Truesdell SB, Kerr L
-:::
-::::::
-::::::::
-
-:::::::: publication-card
-::: publication-media
-<img src="Figures/Publications/physical-biogeochemical.png"/>
-:::
-
-:::::: publication-content
-::: publication-title
-[A high-resolution physical–biogeochemical model for marine resource applications in the northwest Atlantic (MOM6-COBALT-NWA12 v1.0)](https://doi.org/10.5194/gmd-16-6943-2023)
-:::
-
-::: publication-year
-2023
-:::
-
-::: publication-authors
-Ross AC, Stock CA, Adcroft A, Curchitser E, Hallberg R, Harrison MJ, Hedstrom K, et al.
-:::
-::::::
-::::::::
-
-:::::::: publication-card
-::: publication-media
-<img src="Figures/Publications/Estimatingpopulation.jpg"/>
-:::
-
-:::::: publication-content
-::: publication-title
-[Estimating population trends with stratified random sampling under the pressures of climate change](https://doi.org/10.1016/j.fishres.2023.106652)
-:::
-
-::: publication-year
-2023
-:::
-
-::: publication-authors
-Mazur MD, Jesse J, Cadrin SX, Truesdell SB, Kerr L
-:::
-::::::
-::::::::
-
-:::::::: publication-card
-::: publication-media
-<img src="Figures/Publications/NOAAFisheries.PNG"/>
-:::
-
-:::::: publication-content
-::: publication-title
-[NOAA Fisheries research geared towards climate-ready living marine resource management in the northeast United States](https://doi.org/10.1371/journal.pclm.0000323)
-:::
-
-::: publication-year
-2023
-:::
-
-::: publication-authors
-Saba V, Borggaard D, Caracappa JC, Chambers RC, Clay PM, Colburn LL, et al.
-:::
-::::::
-::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
