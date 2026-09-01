@@ -64,7 +64,7 @@ Click on a photo to go to the research track page for that species
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::: centered-div
 :::::::: publication-card
 ::: publication-media
-<img src="Figures/Fish/AM_Plaice.png"/>
+<img src="Figures/Fish/AM_Plaice.jpeg"/>
 :::
 
 :::::: publication-content
@@ -86,7 +86,7 @@ American plaice is a commercially important flatfish in the Northeast U.S. and C
 
 :::::::: publication-card
 ::: publication-media
-<img src="Figures/Fish/Atlantic_Cod.png"/>
+<img src="Figures/Fish/Atlantic_Cod.jpeg"/>
 :::
 
 :::::: publication-content
