@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Project Pages"
 editor: visual
 ---
 
@@ -7,50 +7,47 @@ editor: visual
 
 Click on a photo to go to the research track page for that species
 
-::: {layout-nrow="1" style="display: flex; justify-content: center;"}
+:::::: {layout-nrow="1" style="display: flex; justify-content: center;"}
+::: {style="margin-right: 10px;"}
+[![](Figures/Fish/AM_Plaice.png){height="200"}](AmericanPlaiceRT.qmd)
+:::
 
-<div style="margin-right: 10px;">
-  [![](Figures/Fish/AM_Plaice.png){height="200"}](AmericanPlaiceRT.qmd)
-</div>
-
-<div style="margin-right: 10px;">
-  [![](Figures/Fish/Black_seabass.png){height="200"}](BlackSeaBassRT.qmd)
-</div>
+::: {style="margin-right: 10px;"}
+[![](Figures/Fish/Black_seabass.png){height="200"}](BlackSeaBassRT.qmd)
+:::
 
 <div>
-  [![](Figures/Fish/Atlantic_Cod.png){height="200"}](AtlanticCodRT.qmd)
-</div>
 
-:::
+[![](Figures/Fish/Atlantic_Cod.png){height="200"}](AtlanticCodRT.qmd)
+
+</div>
+::::::
 
 # NCLIM Related Github Repositories
 
-::: {style="display: flex; justify-content: center; text-align: center; flex-wrap: wrap;"}
-
+:::::::: {style="display: flex; justify-content: center; text-align: center; flex-wrap: wrap;"}
 ::: {style="margin: 10px;"}
-[![](Figures/Repo_figs/Groundfish_repo.png){height="200"}](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE)  
-**[Groundfish MSE Repository](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE)**
-:::
-
-::: {style="margin: 10px;"}
-[![](Figures/Repo_figs/MOM6_repo.png){height="200"}](https://github.com/NOAA-GFDL/MOM6-examples)  
-**[MOM6 Examples Repository](https://github.com/NOAA-GFDL/MOM6-examples)**
+[![](Figures/Repo_figs/Groundfish_repo.png){height="200"}](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE)\
+[**Groundfish MSE Repository**](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE)
 :::
 
 ::: {style="margin: 10px;"}
-[![](Figures/Repo_figs/Statespace_repo.png){height="200"}](https://github.com/timjmiller/SSRTWG)  
-**[State-space Research Track Working Group](https://github.com/timjmiller/SSRTWG)**
+[![](Figures/Repo_figs/MOM6_repo.png){height="200"}](https://github.com/NOAA-GFDL/MOM6-examples)\
+[**MOM6 Examples Repository**](https://github.com/NOAA-GFDL/MOM6-examples)
 :::
 
 ::: {style="margin: 10px;"}
-[![](Figures/Repo_figs/Indicators_repo.png){height="200"}](https://github.com/Jamie-Behan/Indicator_Visualizations)  
-**[Indicator Visualizations Repository](https://github.com/Jamie-Behan/Indicator_Visualizations)**
+[![](Figures/Repo_figs/Statespace_repo.png){height="200"}](https://github.com/timjmiller/SSRTWG)\
+[**State-space Research Track Working Group**](https://github.com/timjmiller/SSRTWG)
 :::
 
 ::: {style="margin: 10px;"}
-[![](Figures/Repo_figs/WHAM_repo.png){height="200"}](https://timjmiller.github.io/wham/)  
-**[WHAM Repository](https://timjmiller.github.io/wham/)**
+[![](Figures/Repo_figs/Indicators_repo.png){height="200"}](https://github.com/Jamie-Behan/Indicator_Visualizations)\
+[**Indicator Visualizations Repository**](https://github.com/Jamie-Behan/Indicator_Visualizations)
 :::
 
+::: {style="margin: 10px;"}
+[![](Figures/Repo_figs/WHAM_repo.png){height="200"}](https://timjmiller.github.io/wham/)\
+[**WHAM Repository**](https://timjmiller.github.io/wham/)
 :::
-
+::::::::

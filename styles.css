@@ -403,3 +403,14 @@ body {
   max-height: 80px;
   object-fit: contain;                   /* Preserves original logo aspect ratios */
 }
+
+.funder-row-single {
+ display: flex;
+ justify-content: center;
+ margin-bottom: 1.5rem;
+}
+
+.funder-card-large {
+ width: 280px; /* adjust to taste */
+ height: auto;
+}
