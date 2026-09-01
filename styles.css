@@ -433,16 +433,11 @@ body {
  border-radius: 0.375rem;
  box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,.075);
  margin-bottom: 1.5rem;
- overflow: hidden;
+ overflow: visible;
  display: flex;
  flex-direction: row;
  align-items: stretch;
  transition: box-shadow 0.2s ease;
-<<<<<<< HEAD
- min-height: 300px;
- max-height: 800px;
-=======
  min-height: 50px;
- max-height: 300px;
->>>>>>> 7a45b18112af8ac6d59ef94c389d29787a801834
+ max-height: none;
 }
