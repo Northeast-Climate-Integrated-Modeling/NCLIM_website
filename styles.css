@@ -423,3 +423,21 @@ body {
   box-shadow: 0 2px 8px rgba(0,0,0,0.06);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
+
+/* =========================================================
+ PROJECT PAGE CARDS
+========================================================= */
+.project-card {
+ border: 1px solid #dee2e6;
+ background-color: #dee2e6;
+ border-radius: 0.375rem;
+ box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,.075);
+ margin-bottom: 1.5rem;
+ overflow: hidden;
+ display: flex;
+ flex-direction: row;
+ align-items: stretch;
+ transition: box-shadow 0.2s ease;
+ min-height: 300px;
+ max-height: 800px;
+}
