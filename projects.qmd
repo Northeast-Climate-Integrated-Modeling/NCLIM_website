@@ -4,9 +4,10 @@ editor: visual
 ---
 
 # Applications in research track stock assessments
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::: centered-div
+
+:::::::::::::::::::: centered-div
 :::::::: project-card
-::: publication-media
+::: project-media
 ![](Figures/Fish/AM_Plaice.png)
 :::
 
@@ -24,7 +25,6 @@ American plaice is a commercially important flatfish in the Northeast U.S. and C
 
 [Identifying environmental drivers of American plaice stock dynamics](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers)
 :::
-
 ::::::
 ::::::::
 
@@ -50,12 +50,12 @@ Atlantic cod (Gadus morhua) are a benthopelagic fish whose range in the northwes
 ::::::
 ::::::::
 
-:::::::: publication-card
+::::::: project-card
 ::: publication-media
 ![](Figures/Fish/Black-Sea-Bass.png)
 :::
 
-:::::: publication-content
+::::: publication-content
 ::: publication-title
 [Multispecies population-scale emergence of climate change signals in an ocean warming hotspot](https://doi.org/10.1093/icesjms/fsad208)
 :::
@@ -63,12 +63,9 @@ Atlantic cod (Gadus morhua) are a benthopelagic fish whose range in the northwes
 ::: publication-authors
 Black sea bass is a commercially and recreationally important species in the New England and Mid-Atlantic regions that has shown increased productivity in response to warming temperatures. The species has exhibited a northward shift in response to climate that is captured by divergent state surveys (increases in northern surveys and decreases in the south) but the coastwide survey suggests variability without trend. The single-area stock assessment proposed in 2012 struggled to replicate these divergent survey trends and the model ultimately did not pass review. Subsequent work found that two-area models exhibited improved fit to survey data, and there is interest in further exploring approaches to account for climate-driven species distribution shifts in stock assessments. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for black sea bass.
 :::
-::::::
-::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-
+:::::
+:::::::
+::::::::::::::::::::
 
 # NCLIM Related Github Repositories
 

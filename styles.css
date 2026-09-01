@@ -442,6 +442,23 @@ body {
  max-height: none;
 }
 
+.project-media {
+ order: 2;
+ align-self: flex-start;
+ /* any existing media styles you had */
+}
+
+.project-media img {
+ display: block;
+ width: 100%;
+ height: auto;
+}
+
+.project-content {
+ order: 1;
+ /* content stays on top */
+}
+
 .project-link {
  display: flex;
  flex-direction: column;
