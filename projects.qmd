@@ -72,7 +72,7 @@ Click on a photo to go to the research track page for that species
 American Plaice Research Track
 :::
 
-::: publication-year
+::: project-link
 [WHAM assessment model for American plaice (2021–2022 research track)](https://github.com/ahart1/PlaiceWG2021)
 
 [Identifying environmental drivers of American plaice stock dynamics](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers)
@@ -94,7 +94,7 @@ American plaice is a commercially important flatfish in the Northeast U.S. and C
 [Impacts of changing ocean conditions on American plaice (Hippoglossoides platessoides) stock dynamics](https://doi.org/10.1007/s10641-026-01867-z)
 :::
 
-::: publication-year
+::: project-link
 2026
 :::
 

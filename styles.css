@@ -441,3 +441,25 @@ body {
  min-height: 50px;
  max-height: none;
 }
+
+.project-link {
+ display: flex;
+ flex-wrap: wrap;
+ gap: 0.5rem;
+ padding: 0.75rem 1rem;
+}
+.project-link a {
+ display: inline-flex;
+ align-items: center;
+ gap: 0.35rem;
+ padding: 0.3rem 0.75rem;
+ background: #e8f0fe;
+ color: #1967d2;
+ border-radius: 1rem;
+ font-size: 0.85rem;
+ text-decoration: none;
+ transition: background 0.15s;
+}
+.project-link a:hover {
+ background: #d2e3fc;
+}
