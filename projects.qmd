@@ -64,7 +64,7 @@ Click on a photo to go to the research track page for that species
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::: centered-div
 :::::::: publication-card
 ::: publication-media
-![](Figures/Fish/AM_Plaice.jpeg)
+![](Figures/Fish/AM_Plaice.png)
 :::
 
 :::::: publication-content
@@ -106,7 +106,7 @@ Behan JT, Kerr LA
 
 :::::::: publication-card
 ::: publication-media
-<img src="/Figures/Fish/Black_seabass.jpeg"/>
+<img src="Figures/Fish/Black_seabass.png"/>
 :::
 
 :::::: publication-content
