@@ -438,6 +438,11 @@ body {
  flex-direction: row;
  align-items: stretch;
  transition: box-shadow 0.2s ease;
+<<<<<<< HEAD
  min-height: 300px;
  max-height: 800px;
+=======
+ min-height: 50px;
+ max-height: 300px;
+>>>>>>> 7a45b18112af8ac6d59ef94c389d29787a801834
 }
