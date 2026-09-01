@@ -468,8 +468,13 @@ body {
 .project-link a::before {
  content: "";
  display: inline-block;
+<<<<<<< HEAD
  width: 25px;
  height: 25px;
+=======
+ width: 20px;
+ height: 20px;
+>>>>>>> 25037ac94e234ed8d007f5e64ddcf6254758c3bb
  background: url("Figures/github-logo.png") no-repeat center;
  background-size: contain;
  flex-shrink: 0;
