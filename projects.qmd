@@ -73,9 +73,9 @@ American Plaice Research Track
 :::
 
 ::: publication-year
-[Repository for WHAM assessment model for American plaice (2021–2022 research track)"](https://github.com/ahart1/PlaiceWG2021)
+[WHAM assessment model for American plaice (2021–2022 research track)](https://github.com/ahart1/PlaiceWG2021)
 
-[Repository for identifying environmental drivers of American plaice stock dynamics](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers)
+[Identifying environmental drivers of American plaice stock dynamics](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers)
 :::
 
 ::: publication-authors
