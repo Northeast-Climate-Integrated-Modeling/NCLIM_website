@@ -17,7 +17,7 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 
 ### Lisa Kerr
 
-*Associate Professor*\
+*Professor*\
 [Lisa.kerr1\@maine.edu](mailto:lisa.kerr1@maine.edu)
 :::
 ::::
@@ -61,7 +61,7 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 
 ### Roger Brothers
 
-*Postdoctoral Research Associate*\
+*Assistant Research Professor of Fisheries Science*\
 [John.brothers\@maine.edu](mailto:John.brothers@maine.edu)
 :::
 ::::
@@ -74,6 +74,16 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 
 *Postdoctoral Research Associate*\
 [Cole.Carrano\@maine.edu](mailto:Cole.Carrano@maine.edu)
+:::
+
+:::: {.card .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/HJacobs.jpg)
+
+### Hannah Jacobs
+
+*Master's Graduate Student*\
+[Hannah.Jacobs\@maine.edu](mailto:Hannah.Jacobs@maine.edu)
 :::
 ::::
 :::::::::::::::::
@@ -317,18 +327,6 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 
 :::: {.card .h-75 .text-center .shadow-sm}
 ::: card-body
-![](Figures/Contributors/ECurchitser.png)
-
-### Enrique Curchitser
-
-*Professor of Climate and Oceanography*\
-[enrique@marine.rutgers.edu](mailto:enrique@marine.rutgers.edu)
-
-:::
-::::
-
-:::: {.card .h-75 .text-center .shadow-sm}
-::: card-body
 ![](Figures/Contributors/JBandara.png)
 
 ### Jeewantha Bandara
@@ -494,6 +492,22 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 ### Madeline Guyant
 
 
+:::
+::::
+
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/ECurchitser.png)
+
+### Enrique Curchitser
+:::
+::::
+
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/KLankowicz.jpg)
+
+### Katie Lankowicz
 :::
 ::::
 
