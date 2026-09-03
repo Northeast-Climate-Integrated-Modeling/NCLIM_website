@@ -46,6 +46,26 @@ Behan JT, Kerr LA
 
 :::::::: publication-card
 ::: publication-media
+<img src="Figures/Publications/Incorporating_environmental_covariates.png"/>
+:::
+
+:::::: publication-content
+::: publication-title
+[Incorporating environmental covariates into a state-space stock assessment model for Yellowtail Flounder](https://doi.org/10.1139/cjfas-2025-0289)
+:::
+
+::: publication-year
+2026
+:::
+
+::: publication-authors
+Kittel J, Hansell AC, Carrano C, Cadrin SX
+:::
+::::::
+::::::::
+
+:::::::: publication-card
+::: publication-media
 <img src="Figures/Publications/Multispeciespopulation.jpeg"/>
 :::
 
