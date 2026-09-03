@@ -75,16 +75,6 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 *Postdoctoral Research Associate*\
 [Cole.Carrano\@maine.edu](mailto:Cole.Carrano@maine.edu)
 :::
-
-:::: {.card .text-center .shadow-sm}
-::: card-body
-![](Figures/Contributors/HJacobs.jpg)
-
-### Hannah Jacobs
-
-*Master's Graduate Student*\
-[Hannah.Jacobs\@maine.edu](mailto:Hannah.Jacobs@maine.edu)
-:::
 ::::
 
 :::: {.card .text-center .shadow-sm}
