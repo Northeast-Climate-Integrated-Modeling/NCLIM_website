@@ -457,12 +457,12 @@ body {
 
 .project-media {
  flex: 0 0 30%; /* image column takes ~30% of the row */
- min-width: 120px;     /* safety floor so it doesn't get tiny */
+ min-width: 130px;     /* safety floor so it doesn't get tiny */
 }
 
 .project-media img {
  display: block;
- max-width: 100%; /* 100% fills the media column */
+ max-width: 150px; 
  height: auto;
 }
 
