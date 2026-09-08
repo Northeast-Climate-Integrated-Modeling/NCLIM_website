@@ -7,6 +7,7 @@ editor: visual
 
 :::::::::::::::::::: centered-div
 :::::::: project-card
+::: project-bottom-row
 ::: project-media
 ![](Figures/Fish/AM_Plaice.png)
 :::
@@ -24,6 +25,7 @@ American plaice is a commercially important flatfish in the Northeast U.S. and C
 [WHAM assessment model for American plaice (2021–2022 research track)](https://github.com/ahart1/PlaiceWG2021)
 
 [Identifying environmental drivers of American plaice stock dynamics](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers)
+:::
 :::
 ::::::
 ::::::::

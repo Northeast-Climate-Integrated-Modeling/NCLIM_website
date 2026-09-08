@@ -442,29 +442,36 @@ body {
  max-height: none;
 }
 
+.project-content {
+ /* stays full-width on top */
+}
+
+/* New: wraps the bottom row (image + links) */
+.project-bottom-row {
+ display: flex;
+ flex-direction: row;
+ align-items: flex-start;
+ gap: 1rem;
+ padding: 0 1rem 1rem; /* matches card padding */
+}
+
 .project-media {
- order: 2;
- align-self: flex-start;
- /* any existing media styles you had */
+ flex: 0 0 auto; /* image takes its natural width, doesn't grow */
 }
 
 .project-media img {
  display: block;
- width: 100%;
+ max-width: 150px; /* adjust to your preferred size */
  height: auto;
-}
-
-.project-content {
- order: 1;
- /* content stays on top */
 }
 
 .project-link {
  display: flex;
  flex-direction: column;
  gap: 0.5rem;
- padding: 0.75rem 1rem;
+ flex: 1; /* fills remaining space to the right */
 }
+
 .project-link a {
  display: flex;
  align-items: center;
@@ -479,9 +486,11 @@ body {
  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
  transition: background 0.15s;
 }
+
 .project-link a:hover {
  background: #eaeef2;
 }
+
 .project-link a::before {
  content: "";
  display: inline-block;
