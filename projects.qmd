@@ -30,6 +30,7 @@ American plaice is a commercially important flatfish in the Northeast U.S. and C
 ::::::::
 :::::::::
 
+::::::::: project-card
 :::::: publication-content
 ::: publication-title
 Atlantic Cod Research Track
@@ -40,7 +41,6 @@ Atlantic cod (Gadus morhua) are a benthopelagic fish whose range in the northwes
 :::
 
 :::::::: project-bottom-row
-:::::::: project-card
 ::: publication-media
 ![](Figures/Fish/Atlantic_Cod.png)
 :::
@@ -54,6 +54,7 @@ Atlantic cod (Gadus morhua) are a benthopelagic fish whose range in the northwes
 ::::::::
 :::::::::
 
+::::::::: project-card
 ::::: publication-content
 ::: publication-title
 [Multispecies population-scale emergence of climate change signals in an ocean warming hotspot](https://doi.org/10.1093/icesjms/fsad208)
@@ -64,7 +65,6 @@ Black sea bass is a commercially and recreationally important species in the New
 :::
 
 :::::::: project-bottom-row
-::::::: project-card
 ::: publication-media
 ![](Figures/Fish/Black-Sea-Bass.png)
 :::
