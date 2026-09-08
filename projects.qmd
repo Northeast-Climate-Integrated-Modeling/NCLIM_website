@@ -76,29 +76,114 @@ Black sea bass is a commercially and recreationally important species in the New
 
 # NCLIM Related Github Repositories
 
-:::::::: {style="display: flex; justify-content: center; text-align: center; flex-wrap: wrap;"}
-::: {style="margin: 10px;"}
-[![](Figures/Repo_figs/Groundfish_repo.png){height="200"}](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE)\
-[**Groundfish MSE Repository**](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE)
+::::::::::::::::::::: centered-div
+::::::::: project-card
+:::::: publication-content
+::: publication-title
+A Management Strategy Evaluation Framework for New England Groundfish
 :::
 
-::: {style="margin: 10px;"}
-[![](Figures/Repo_figs/MOM6_repo.png){height="200"}](https://github.com/NOAA-GFDL/MOM6-examples)\
-[**MOM6 Examples Repository**](https://github.com/NOAA-GFDL/MOM6-examples)
+::: publication-authors
+A Management Strategy Evaluation Framework for New England Groundfish.
 :::
 
-::: {style="margin: 10px;"}
-[![](Figures/Repo_figs/Statespace_repo.png){height="200"}](https://github.com/timjmiller/SSRTWG)\
-[**State-space Research Track Working Group**](https://github.com/timjmiller/SSRTWG)
+:::::::: project-bottom-row
+::: project-media
+![](Figures/Fish/AM_Plaice.png)
 :::
 
-::: {style="margin: 10px;"}
-[![](Figures/Repo_figs/Indicators_repo.png){height="200"}](https://github.com/Jamie-Behan/Indicator_Visualizations)\
-[**Indicator Visualizations Repository**](https://github.com/Jamie-Behan/Indicator_Visualizations)
+::: project-link
+[Groundfish MSE Repository](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE)
 :::
-
-::: {style="margin: 10px;"}
-[![](Figures/Repo_figs/WHAM_repo.png){height="200"}](https://timjmiller.github.io/wham/)\
-[**WHAM Repository**](https://timjmiller.github.io/wham/)
-:::
+::::::
 ::::::::
+:::::::::
+
+::::::::: project-card
+:::::: publication-content
+::: publication-title
+Modular Ocean Model, version 6 Examples
+:::
+
+::: publication-authors
+MOM6 (Modular Ocean Model, version 6) is a next-generation open-development-source ocean model developed by a consortium of institutions. It uses a modern Fortran codebase solving the primitive equations for ocean dynamics on an Arakawa C-grid. This repository provides the configurations (input parameters and data) and their corresponding regression data (for testing), of models that involve MOM6 and SIS2. The repository also contains tools for analysis and preprocessing.
+:::
+
+:::::::: project-bottom-row
+::: project-media
+![](Figures/Fish/AM_Plaice.png)
+:::
+
+::: project-link
+[MOM6 Examples Repository](https://github.com/NOAA-GFDL/MOM6-examples)
+:::
+::::::
+::::::::
+:::::::::
+
+::::::::: project-card
+:::::: publication-content
+::: publication-title
+SSRTWG: State-space Research Track Working Group
+:::
+
+::: publication-authors
+A repository of code development and report and paper writing for simulation studies carried out by the working group.
+:::
+
+:::::::: project-bottom-row
+::: project-media
+![](Figures/Fish/AM_Plaice.png)
+:::
+
+::: project-link
+[State-space Research Track Working Group](https://github.com/timjmiller/SSRTWG)
+:::
+::::::
+::::::::
+:::::::::
+
+::::::::: project-card
+:::::: publication-content
+::: publication-title
+Maine Coast Integrated Ecosystem Assessment
+:::
+
+::: publication-authors
+An RShiny user interface for visualizing an integrated ecosystem assessment focused on characterizing the status and trends of the fishery ecosystem in Maine’s coastal waters.
+:::
+
+:::::::: project-bottom-row
+::: project-media
+![](Figures/Fish/AM_Plaice.png)
+:::
+
+::: project-link
+[Indicator Visualizations Repository](https://github.com/Jamie-Behan/Indicator_Visualizations)
+:::
+::::::
+::::::::
+:::::::::
+
+::::::::: project-card
+:::::: publication-content
+::: publication-title
+Woods Hole Assessment Model (WHAM)
+:::
+
+::: publication-authors
+The Woods Hole Assessment Model (WHAM) is a general age-structured stock assessment framework that can be configured to estimate assessment models that range in complexity from statistical catch-at-age (SCAA) model with annual recruitments as fixed effects, to state-space, multi-stock, multi-region, age-structured models where many parameters can be treated as time- and age-varying process errors and/or allowing effects of environmental covariates.
+:::
+
+:::::::: project-bottom-row
+::: project-media
+![](Figures/Fish/AM_Plaice.png)
+:::
+
+::: project-link
+[WHAM Repository](https://timjmiller.github.io/wham/)
+:::
+::::::
+::::::::
+:::::::::
+:::::::::::::::::::::
