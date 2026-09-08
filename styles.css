@@ -450,18 +450,19 @@ body {
 .project-bottom-row {
  display: flex;
  flex-direction: row;
- align-items: flex-start;
+ align-items: center;
  gap: 1rem;
  padding: 0 1rem 1rem; /* matches card padding */
 }
 
 .project-media {
- flex: 0 0 auto; /* image takes its natural width, doesn't grow */
+ flex: 0 0 30%; /* image column takes ~30% of the row */
+ min-width: 120px;     /* safety floor so it doesn't get tiny */
 }
 
 .project-media img {
  display: block;
- max-width: 150px; /* adjust to your preferred size */
+ max-width: 100%; /* 100% fills the media column */
  height: auto;
 }
 
