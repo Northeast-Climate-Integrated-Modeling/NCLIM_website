@@ -25,6 +25,7 @@ American plaice is a commercially important flatfish in the Northeast U.S. and C
 ::::::::
 :::::::::
 
+
 ::::::::: project-card
 :::::: publication-content
 ::: publication-title
@@ -42,7 +43,7 @@ Atlantic cod (Gadus morhua) are a benthopelagic fish whose range in the northwes
 :::
 ::::::
 ::::::::
-:::::::::
+
 
 ::::::::: project-card
 ::::: publication-content
@@ -57,7 +58,6 @@ Black sea bass is a commercially and recreationally important species in the New
 ::::::
 ::::::::
 :::::::::
-:::::::::::::::::::::
 
 # NCLIM Related Github Repositories
 
@@ -111,7 +111,6 @@ A repository of code development and report and paper writing for simulation stu
 :::
 ::::::
 ::::::::
-:::::::::
 
 ::::::::: project-card
 :::::: publication-content
@@ -128,7 +127,7 @@ An RShiny user interface for visualizing an integrated ecosystem assessment focu
 :::
 ::::::
 ::::::::
-:::::::::
+
 
 ::::::::: project-card
 :::::: publication-content
@@ -146,4 +145,3 @@ The Woods Hole Assessment Model (WHAM) is a general age-structured stock assessm
 ::::::
 ::::::::
 :::::::::
-:::::::::::::::::::::
