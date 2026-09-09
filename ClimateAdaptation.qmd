@@ -78,7 +78,9 @@ Leaders and representatives engaged in co-designing climate strategies:
 
 ## Project Team
 
+::: {.background-callout}
 Our interdisciplinary team brings together experts across marine research institutions and federal agencies:
+:::
 
 ::::::::::::::: {.grid .my-4}
 :::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
