@@ -1,0 +1,107 @@
+---
+title: "Human Dimensions Modeling"
+format: html
+---
+
+
+## Overview
+
+::: {.background-callout}
+Since 2003, the commercial black sea bass quota has been allocated to individual states by the ASMFC. States have chosen a variety of regulatory systems for their commercial fleets, including input controls (mesh or vent sizes), daily- or weekly- possession limits, output controls (individual-, seasonal- , and aggregate quotas), and minimum sizes.  Quota monitoring is based on the state in which the catch was landed.
+
+All states have implemented limited access, which restricts both the ability of firms to fish in state waters and the ability of firms to land fish in their state, regardless of where the fish were caught. These restrictions are intended to preserve state-level quota for state vessels. When stocks of fish move, these restrictions can create a geographic mismatch between the fishing fleet and the biomass, increasing costs (perhaps dramatically).
+:::
+
+::: callout-note
+### Key Objectives
+
+Evaluate how state-level landings restrictions affect the profits of firms that fish for black sea bass and places that they land black sea bass?
+
+:::
+
+### Current Initiatives
+
+::: {.background-callout}
+-   **Initiative 1:** description
+-   **Initiative 2:** description
+-   **Initiative 3:** description
+:::
+
+------------------------------------------------------------------------
+
+## Target Audiences & Relevant Processes
+
+::: {.background-callout}
+This research directly informs XXXXXX, XXXXXXX, and XXXXXX along the U.S. East Coast:
+:::
+
+::::::::: {.grid .my-4}
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100 .shadow-sm}
+::: card-body
+<h4 class="card-title text-primary">
+
+<i class="bi bi-people-fill me-2"></i>Primary Users & Councils
+
+</h4>
+
+<p class="card-text text-muted mb-3">
+
+Regional management councils and science centers applying harvest control rules:
+
+</p>
+
+[example-NEFMC]{.badge .bg-primary .fs-6 .me-1 .mb-2} [example-MAFMC]{.badge .bg-primary .fs-6 .me-1 .mb-2} [example-SAFMC]{.badge .bg-primary .fs-6 .me-1 .mb-2} [example-NEFSC]{.badge .bg-primary .fs-6 .me-1 .mb-2}
+:::
+::::
+:::::
+
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100 .shadow-sm}
+::: card-body
+<h4 class="card-title text-primary">
+
+<i class="bi bi-diagram-3-fill me-2"></i>Relevant Processes & Operations
+
+</h4>
+
+<p class="card-text text-muted mb-3">
+
+Key management frameworks and scientific integration pathways:
+
+</p>
+
+-   **Pathway 1:** description
+-   **Pathway 2:** description
+-   **Pathway 3:** description
+:::
+::::
+:::::
+:::::::::
+
+------------------------------------------------------------------------
+
+## Project Team
+
+::: {.background-callout}
+Our interdisciplinary team brings together experts in XXXXXXXX, XXXXXXXXXX, and XXXXXXXX:
+:::
+
+::::::::::::::: {.grid .my-4}
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/ABirkenbach.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Anna Birkenbach
+
+</h5>
+
+::::
+:::::
+::::::
+:::::::::::::::
