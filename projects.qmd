@@ -22,7 +22,6 @@ American plaice is a commercially important flatfish in the Northeast U.S. and C
 [Identifying environmental drivers of American plaice stock dynamics](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers)
 :::
 ::::::
-::::::::
 :::::::::
 
 
@@ -42,7 +41,7 @@ Atlantic cod (Gadus morhua) are a benthopelagic fish whose range in the northwes
 [Identifying environmental drivers of Atlantic cod stock dynamics](https://github.com/Jamie-Behan/Atlantic_cod)
 :::
 ::::::
-::::::::
+:::::::::
 
 
 ::::::::: project-card
@@ -55,9 +54,10 @@ Atlantic cod (Gadus morhua) are a benthopelagic fish whose range in the northwes
 Black sea bass is a commercially and recreationally important species in the New England and Mid-Atlantic regions that has shown increased productivity in response to warming temperatures. The species has exhibited a northward shift in response to climate that is captured by divergent state surveys (increases in northern surveys and decreases in the south) but the coastwide survey suggests variability without trend. The single-area stock assessment proposed in 2012 struggled to replicate these divergent survey trends and the model ultimately did not pass review. Subsequent work found that two-area models exhibited improved fit to survey data, and there is interest in further exploring approaches to account for climate-driven species distribution shifts in stock assessments. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for black sea bass.
 :::
 
-::::::
-::::::::
+:::::
 :::::::::
+:::::::::::::::::::::
+
 
 # NCLIM Related Github Repositories
 
@@ -76,7 +76,6 @@ A Management Strategy Evaluation Framework for New England Groundfish.
 [Groundfish MSE Repository](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE)
 :::
 ::::::
-::::::::
 :::::::::
 
 ::::::::: project-card
@@ -93,7 +92,6 @@ MOM6 (Modular Ocean Model, version 6) is a next-generation open-development-sour
 [MOM6 Examples Repository](https://github.com/NOAA-GFDL/MOM6-examples)
 :::
 ::::::
-::::::::
 :::::::::
 
 ::::::::: project-card
@@ -110,7 +108,7 @@ A repository of code development and report and paper writing for simulation stu
 [State-space Research Track Working Group](https://github.com/timjmiller/SSRTWG)
 :::
 ::::::
-::::::::
+:::::::::
 
 ::::::::: project-card
 :::::: publication-content
@@ -126,7 +124,7 @@ An RShiny user interface for visualizing an integrated ecosystem assessment focu
 [Indicator Visualizations Repository](https://github.com/Jamie-Behan/Indicator_Visualizations)
 :::
 ::::::
-::::::::
+:::::::::
 
 
 ::::::::: project-card
@@ -143,5 +141,5 @@ The Woods Hole Assessment Model (WHAM) is a general age-structured stock assessm
 [WHAM Repository](https://timjmiller.github.io/wham/)
 :::
 ::::::
-::::::::
 :::::::::
+:::::::::::::::::::::
