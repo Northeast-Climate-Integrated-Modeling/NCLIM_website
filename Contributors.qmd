@@ -403,6 +403,18 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 [swulfing@umassd.edu](mailto:swulfing@umassd.edu)
 :::
 ::::
+
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/ERoros.jpg)
+
+### Liz Roros
+
+*M.S Graduate Student*\
+[eroros@umassd.edu](mailto:eroros@umassd.edu)
+
+:::
+::::
 :::::::::::::::::
 
 ------------------------------------------------------------------------
