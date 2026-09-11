@@ -1,0 +1,242 @@
+---
+title: "StockAssessment"
+---
+
+## Overview
+
+::: {.background-callout}
+Our team has made significant progress developing climate-informed stock assessment models for species that have demonstrated shifts in distribution and changes in productivity, including American plaice, Atlantic cod, and black sea bass. In Phase II of NCLIM, we plan to continue our active participation in research track stock assessments and commitment to providing support in the integration of climate and ecosystem information. 
+:::
+
+::: callout-note
+### Key Objective
+
+Integration of climate impacts on fish stock dynamics to improve stock assessment
+:::
+
+### Current Initiatives
+
+::: {.background-callout}
+-   **Stakeholder Engagement:** Engage with fishers and fisheries stakeholders in the region with the aim of characterizing their observations of changes in the ecosystem and climate, fish distributions, or other relevant concerns.
+-   **Synthesis Work:** Conduct synthesis to characterize the state of knowledge on ecosystem and climate impacts on fish stock dynamics.
+-   **Adaptation of a Flexible Assessment Model:** the Woods Hole Assessment Model (WHAM) uses next-generation statistical methods to consider time varying processes and environmental covariates.
+-   **Accounting for Non-stationarity in Stock Dynamics:** A step forward from assumptions of stationarity to acknowledgement of non-stationarity in stock dynamics.
+-   **Inclusion of Environmental Covariates:** Tested for all stocks and adopted for black sea bass and yellowtail flounder. Finding models with covariates may not always "win" out.
+:::
+
+------------------------------------------------------------------------
+
+## Target Audiences & Relevant Processes
+
+::: {.background-callout}
+This research directly informs stock assessments and fishery management plan revisions:
+:::
+
+::::::::: {.grid .my-4}
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100 .shadow-sm}
+::: card-body
+<h4 class="card-title text-primary">
+
+<i class="bi bi-people-fill me-2"></i>Primary Users & Councils
+
+</h4>
+
+<p class="card-text text-muted mb-3">
+
+Regional management councils and science centers utilizing climate-informed stock assessments:
+
+</p>
+
+[NEFSC]{.badge .bg-primary .fs-6 .me-1 .mb-2} [NEFMC]{.badge .bg-primary .fs-6 .me-1 .mb-2}
+:::
+::::
+:::::
+
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100 .shadow-sm}
+::: card-body
+<h4 class="card-title text-primary">
+
+<i class="bi bi-diagram-3-fill me-2"></i>Relevant Processes & Operations
+
+</h4>
+
+<p class="card-text text-muted mb-3">
+
+Key management frameworks and scientific integration pathways:
+
+</p>
+
+-   **Research Track Stock Assessments:** Integrates climate impacts to improve short-term forecasts and reference points
+-   **Management Track Stock Assessments:** Guides realistic, ecosystem-responsive rebuilding targets and harvest control rules
+:::
+::::
+:::::
+:::::::::
+
+------------------------------------------------------------------------
+
+## Project Team
+
+::: {.background-callout}
+Our interdisciplinary team brings together experts in quantitative ecology, stock assessment, and fisheries management strategy evaluation:
+:::
+
+::::::::::::::: {.grid .my-4}
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/LKerr.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Lisa Kerr
+
+</h5>
+
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/JJesse.jpg)
+:::
+
+<h5 class="card-title mb-1">
+
+Jerelle Jesse
+
+</h5>
+
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/TMiller.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Tim Miller
+
+</h5>
+
+::::
+:::::
+::::::
+:::::::::::::::
+
+::::::::::::::: {.grid .my-4}
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/JDeroba.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Jon Deroba
+
+</h5>
+
+::::
+:::::
+::::::
+
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/AHansell.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Alex Hansell
+
+</h5>
+
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/SCadrin.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Steve Cadrin
+
+</h5>
+
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/CLi.jpg)
+:::
+
+<h5 class="card-title mb-1">
+
+Chengxue Li
+
+</h5>
+
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/CCarrano.jpg)
+:::
+
+<h5 class="card-title mb-1">
+
+Cole Carrano
+
+</h5>
+
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/JBehan.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Jamie Behan
+
+</h5>
+
+::::
+:::::
+::::::
+:::::::::::::::
