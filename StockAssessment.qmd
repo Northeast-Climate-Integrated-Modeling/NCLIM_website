@@ -1,5 +1,5 @@
 ---
-title: "StockAssessment"
+title: "Stock Assessment"
 ---
 
 ## Overview
