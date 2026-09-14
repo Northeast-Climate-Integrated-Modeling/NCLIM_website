@@ -145,29 +145,6 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 
 :::: {.card .h-75 .text-center .shadow-sm}
 ::: card-body
-
-![](Figures/Contributors/CLi.jpg)
-
-### Chengxue Li
-
-*Postdoctoral Research Associate (Affiliate)*\
-[Chengxue.li\@noaa.gov](mailto:chengxue.li@noaa.gov)
-:::
-::::
-
-:::: {.card .h-75 .text-center .shadow-sm}
-::: card-body
-![](Figures/Contributors/GBritten.jpg)
-
-### Greg Britten
-
-*Assistant Scientist I*\
-[gregory.britten\@whoi.edu](mailto:gregory.britten@whoi.edu)
-:::
-::::
-
-:::: {.card .h-75 .text-center .shadow-sm}
-::: card-body
 ![](Figures/Contributors/Jcaracappa.jpg)
 
 ### Joe Caracappa
@@ -431,6 +408,40 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 *Associate Professor*\
 [abirken@udel.edu](mailto:abirken@udel.edu)
 
+:::
+::::
+:::::::::::::::::
+
+------------------------------------------------------------------------
+
+## Woods Hole Oceanographic Institution (WHOI) {.background-heading}
+
+::::::::::::::::: card-grid-4
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/GBritten.jpg)
+
+### Greg Britten
+
+*Assistant Scientist I*\
+[gregory.britten\@whoi.edu](mailto:gregory.britten@whoi.edu)
+:::
+::::
+:::::::::::::::::
+
+------------------------------------------------------------------------
+
+## Stonybrook University {.background-heading}
+
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+
+![](Figures/Contributors/CLi.jpg)
+
+### Chengxue Li
+
+*Research Scientist*\
+[chengxue.li\@stonybrook.edu ](mailto:chengxue.li@stonybrook.edu )
 :::
 ::::
 :::::::::::::::::
