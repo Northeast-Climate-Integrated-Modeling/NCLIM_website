@@ -1,0 +1,156 @@
+---
+title: "Ecosystem Modeling"
+format: html
+---
+
+
+## Overview
+
+::: {.background-callout}
+Fisheries are complex socio-ecological systems with interactions among environmental, ecosystem, social, economic, and institutional components. Moreover, fisheries are commonly prosecuted by mixed fleets and managed under shared governance structures that introduce constraints and tradeoffs among fishing sectors, species, and management plans. Ecosystem-based fisheries management (EBFM) approaches that recognize some of these interactions may provide pathways for satisfying some of the tradeoffs among management objectives, particularly as systems change. Understanding the performance of Ecosystem Approach for Fisheries Management (EAFM) and EBFM approaches given climate impacts requires modeling tools that can reflect multiple objectives and ecosystem facets, as well as climate drivers and management feedback on multiple interacting fish populations and fishing fleets. Our recent work showed that in some cases, management approaches that included assessments and ecosystem indicator information at the aggregate stock complex level could improve management performance over single species management approaches without increasing biological risk. This work will further develop regional modeling efforts to couple climate and fishing fleet models with multispecies fishery ecosystem model to inform likely consequences of EAFM and EBFM in our changing ecosystem.
+:::
+
+::: callout-note
+### Key Objectives
+
+Advance approaches in evaluating mixed fishery management performance to understand EAFM and EBFM robustness to climate change.
+
+:::
+
+### Current Initiatives
+
+::: {.background-callout}
+-   **Framework Expansion:** Expand the integrated modeling framework by adding a multispecies ecosystem operating model and EBFM strategies.
+-   **Simulation Testing:** Use simulation testing to compare the performance of status quo, single-species EAFM, and EBFM approaches including regional risk policies for achieving management objectives in a changing Northeast US shelf ecosystem
+-   **Quantifying Socio-Economic Indicators:** Integrate fishery ecosystem models with economic models to quantify socio-economic indicator performance metrics and implementation models..
+:::
+
+------------------------------------------------------------------------
+
+## Target Audiences & Relevant Processes
+
+::: {.background-callout}
+This research directly informs stock assessments, fishery management plan revisions, and risk policies along the U.S. East Coast:
+:::
+
+::::::::: {.grid .my-4}
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100 .shadow-sm}
+::: card-body
+<h4 class="card-title text-primary">
+
+<i class="bi bi-people-fill me-2"></i>Primary Users & Councils
+
+</h4>
+
+<p class="card-text text-muted mb-3">
+
+Regional management councils and science centers applying EAFM and EBFM strategies:
+
+</p>
+
+[NEFMC]{.badge .bg-primary .fs-6 .me-1 .mb-2} [MAFMC]{.badge .bg-primary .fs-6 .me-1 .mb-2} [NEFSC]{.badge .bg-primary .fs-6 .me-1 .mb-2}
+:::
+::::
+:::::
+
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100 .shadow-sm}
+::: card-body
+<h4 class="card-title text-primary">
+
+<i class="bi bi-diagram-3-fill me-2"></i>Relevant Processes & Operations
+
+</h4>
+
+<p class="card-text text-muted mb-3">
+
+Key management frameworks and scientific integration pathways:
+
+</p>
+
+-   **Pathway 1:** description of how each of the current initiatives listed above impact stock assessments, fishery management plan revisions, and/or risk policies  
+-   **Pathway 2:** description
+-   **Pathway 3:** description
+:::
+::::
+:::::
+:::::::::
+
+------------------------------------------------------------------------
+
+## Project Team
+
+::: {.background-callout}
+Our interdisciplinary team brings together experts in fisheries ecosystem modeling, stock assessment, and socio-economic fleet dynamics:
+:::
+
+::::::::::::::: {.grid .my-4}
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/LKerr.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Lisa Kerr
+
+</h5>
+
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/GFay.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Gavin Fay
+
+</h5>
+
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/KRoberts.jpg)
+:::
+
+<h5 class="card-title mb-1">
+
+Kelsey Roberts
+
+</h5>
+
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/LHohne.png)
+:::
+
+<h5 class="card-title mb-1">
+
+Leander Hohne
+
+</h5>
+
+::::
+:::::
+::::::
+:::::::::::::::
