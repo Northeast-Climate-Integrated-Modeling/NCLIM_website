@@ -5,8 +5,7 @@ title: "Fisheries Decision Making"
 ## Overview
 
 ::: {.background-callout}
-Fisheries management on the east coast of the U.S.A. is facing emerging challenges due to the impacts of climate change on fish population dynamics and recent increases in observational uncertainty. This initiative evaluates how 1) more holistic and climate integrated  harvest control rules (HCRs) compare to traditional biomass based HCRs and 2) increased data uncertainty and climate impacts stock assessment performance and subsequent management decisions.
-These projects  support regional Fisheries Management Councils as they develop risk policies, implement new HCRs, and operationalize climate-informed management. The Fisheries Decision Making team expanded and uses a Management Strategy Evaluation (MSE) framework to conduct simulations that test the performance of new HCRS and fisheries management strategies in the face of escalating climate impacts and data uncertainties.  These projects directly inform  local fisheries management decisions to support setting robust catch advice in the context of climate change and emerging challenges.
+On the east coast of the U.S.A., fisheries management is facing emerging challenges due to the impacts of climate change on fish population dynamics as well as recent increases in observational uncertainty. This initiative evaluates how 1) more holistic and climate integrated harvest control rules (HCRs) compare to traditional biomass based HCRs and 2) increased uncertainty and climate impacts stock assessment performance and subsequent management decisions. These projects support regional Fisheries Management Councils as they develop risk policies, implement new HCRs, and operationalize climate-informed management. The Fisheries Decision Making team expanded and uses a Management Strategy Evaluation (MSE) framework to conduct simulations that test the performance of new HCRS and fisheries management strategies in the face of escalating climate impacts and data uncertainties. These projects directly inform local fisheries management decisions to support setting robust catch advice in the context of climate change and emerging data collection challenges.
 
 :::
 
@@ -24,6 +23,7 @@ understand the impacts of increased data uncertainty on fisheries management pro
 -   **Framework Development:** Leveraging existing models like our [Groundfish-MSE](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE)
 -   **Stakeholder Integration:** Collaborate with Project Oversight Teams, Council Staff, and Council Technical Committees to ensure alignment with management and stakeholder priorities and needs
 -   **Climate-Informed Catch Advice:** Establishing framework to set ABC control rules while accounting for the climate vulnerability of a stock
+-   **Synthesize Fishery Data Streams:** Inventory fishery-independent and dependent data sources used in U.S. east coast stock assessments and synthesize potential data challenges and sources of uncertainty
 :::
 
 ------------------------------------------------------------------------
