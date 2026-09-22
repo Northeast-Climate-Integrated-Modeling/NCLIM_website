@@ -360,29 +360,6 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 
 :::: {.card .h-75 .text-center .shadow-sm}
 ::: card-body
-![](Figures/Contributors/KRoberts.jpg)
-
-### Kelsey Roberts
-
-*Research Associate*\
-[kroberts6@umassd.edu](mailto:kroberts6@umassd.edu)
-
-:::
-::::
-
-:::: {.card .h-75 .text-center .shadow-sm}
-::: card-body
-![](Figures/Contributors/SWulfing.png)
-
-### Sophie Wulfing
-
-*Research Associate*\
-[swulfing@umassd.edu](mailto:swulfing@umassd.edu)
-:::
-::::
-
-:::: {.card .h-75 .text-center .shadow-sm}
-::: card-body
 ![](Figures/Contributors/ERoros.jpg)
 
 ### Liz Roros
@@ -407,6 +384,18 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 
 *Associate Professor*\
 [abirken@udel.edu](mailto:abirken@udel.edu)
+
+:::
+::::
+
+:::: {.card .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/WMorgan.png)
+
+### Whitney Morgan
+
+*PhD Graduate Student*\
+[wrmorgan@udel.edu](mailto:wrmorgan@udel.edu)
 
 :::
 ::::
@@ -452,6 +441,24 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 ## Past Contributors {.background-heading}
 
 ::::::::::::::::: card-grid-4
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/KRoberts.jpg)
+
+### Kelsey Roberts
+
+:::
+::::
+
+:::: {.card .h-75 .text-center .shadow-sm}
+::: card-body
+![](Figures/Contributors/SWulfing.png)
+
+### Sophie Wulfing
+
+:::
+::::
+
 :::: {.card .text-center .shadow-sm}
 ::: card-body
 ![](Figures/Contributors/JLuddy.jpg)
@@ -514,8 +521,7 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 ::: card-body
 ![](Figures/Contributors/MGuyant.jpeg)
 
-### Madeline Guyant
-
+### Madeleine Guyant
 
 :::
 ::::

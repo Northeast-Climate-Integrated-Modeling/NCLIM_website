@@ -104,4 +104,22 @@ Anna Birkenbach
 ::::
 :::::
 ::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/WMorgan.png)
+
+:::
+
+<h5 class="card-title mb-1">
+
+Whitney Morgan
+
+</h5>
+
+::::
+:::::
+::::::
 :::::::::::::::
