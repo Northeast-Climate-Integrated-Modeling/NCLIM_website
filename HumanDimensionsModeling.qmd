@@ -136,7 +136,7 @@ Stephen Kasperski
 ::::: {.card .text-center .h-100 .shadow-sm}
 :::: card-body
 ::: mb-3
-![](Figures/Contributors/Avatar.png)
+![](Figures/Contributors/avatar.png)
 :::
 
 <h5 class="card-title mb-1">
