@@ -362,9 +362,9 @@ NCLIM brings together an interdisciplinary network of research scientists, ocean
 ::: card-body
 ![](Figures/Contributors/LHohne.png)
 
-### Leander Hohne
+### Leander Höhne
 
-*Research Associate*\
+*Postdoctoral Research Associate*\
 [lhohne@umassd.edu](mailto:lhohne@umassd.edu)
 
 :::
