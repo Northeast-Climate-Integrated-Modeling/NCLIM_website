@@ -117,4 +117,38 @@ Sarah Risley
 :::::
 ::::::
 
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/KMorrill.jpeg)
+:::
+
+<h5 class="card-title mb-1">
+
+Kiera Morrill
+
+</h5>
+
+::::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+::::: {.card .text-center .h-100 .shadow-sm}
+:::: card-body
+::: mb-3
+![](Figures/Contributors/MCutler.jpg)
+:::
+
+<h5 class="card-title mb-1">
+
+Matt Cutler
+
+</h5>
+
+::::
+:::::
+::::::
+
 :::::::::::::::
